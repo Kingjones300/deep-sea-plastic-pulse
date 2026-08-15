@@ -1,0 +1,37 @@
+2026-04-30 15:45:15.495 | INFO     | __main__:main:81 - ============================================================
+2026-04-30 15:45:15.496 | INFO     | __main__:main:82 - Phase 1 - CMEMS Download: Region R1 Strait of Malacca
+2026-04-30 15:45:15.496 | INFO     | __main__:main:83 - Longitude: 98.0 to 109.0
+2026-04-30 15:45:15.496 | INFO     | __main__:main:84 - Latitude:  1.0 to 10.0
+2026-04-30 15:45:15.497 | INFO     | __main__:main:85 - Years:     [2022, 2023, 2024, 2025]
+2026-04-30 15:45:15.497 | INFO     | __main__:main:86 - Depth:     0.5m to 2000m
+2026-04-30 15:45:15.497 | INFO     | __main__:main:87 - ============================================================
+2026-04-30 15:45:15.499 | INFO     | __main__:main:90 - 
+Year 2022:
+2026-04-30 15:45:20.335 | INFO     | __main__:download_physics:24 -   Downloading physics: R1_physics_2022.nc
+2026-04-30 16:44:55.239 | SUCCESS  | __main__:download_physics:40 -   Done: R1_physics_2022.nc
+2026-04-30 16:44:55.240 | INFO     | __main__:download_waves:52 -   Downloading waves: R1_waves_2022.nc
+2026-04-30 16:47:51.520 | SUCCESS  | __main__:download_waves:66 -   Done: R1_waves_2022.nc
+2026-04-30 16:47:51.520 | INFO     | __main__:main:90 - 
+Year 2023:
+2026-04-30 16:47:51.521 | INFO     | __main__:download_physics:24 -   Downloading physics: R1_physics_2023.nc
+2026-04-30 17:44:50.094 | SUCCESS  | __main__:download_physics:40 -   Done: R1_physics_2023.nc
+2026-04-30 17:44:50.094 | INFO     | __main__:download_waves:52 -   Downloading waves: R1_waves_2023.nc
+2026-04-30 17:46:34.433 | SUCCESS  | __main__:download_waves:66 -   Done: R1_waves_2023.nc
+2026-04-30 17:46:34.433 | INFO     | __main__:main:90 - 
+Year 2024:
+2026-04-30 17:46:34.433 | INFO     | __main__:download_physics:24 -   Downloading physics: R1_physics_2024.nc
+2026-04-30 20:50:28.102 | SUCCESS  | __main__:download_physics:40 -   Done: R1_physics_2024.nc
+2026-04-30 20:50:28.103 | INFO     | __main__:download_waves:52 -   Downloading waves: R1_waves_2024.nc
+2026-04-30 20:52:24.920 | SUCCESS  | __main__:download_waves:66 -   Done: R1_waves_2024.nc
+2026-04-30 20:52:24.921 | INFO     | __main__:main:90 - 
+Year 2025:
+2026-04-30 20:52:24.921 | INFO     | __main__:download_physics:24 -   Downloading physics: R1_physics_2025.nc
+2026-04-30 21:21:13.862 | SUCCESS  | __main__:download_physics:40 -   Done: R1_physics_2025.nc
+2026-04-30 21:21:13.863 | INFO     | __main__:download_waves:52 -   Downloading waves: R1_waves_2025.nc
+2026-04-30 21:22:20.733 | SUCCESS  | __main__:download_waves:66 -   Done: R1_waves_2025.nc
+2026-04-30 21:22:20.733 | INFO     | __main__:main:99 - 
+============================================================
+2026-04-30 21:22:20.733 | INFO     | __main__:main:100 - COMPLETE:
+2026-04-30 21:22:20.733 | INFO     | __main__:main:101 -   Physics: 4 OK, 0 failed
+2026-04-30 21:22:20.734 | INFO     | __main__:main:102 -   Waves:   4 OK, 0 failed
+2026-04-30 21:22:20.734 | INFO     | __main__:main:103 - ============================================================

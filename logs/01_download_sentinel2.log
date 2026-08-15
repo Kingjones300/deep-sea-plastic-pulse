@@ -1,0 +1,1325 @@
+2026-04-29 04:13:33.091 | INFO     | __main__:main:136 - ============================================================
+2026-04-29 04:13:33.091 | INFO     | __main__:main:137 - Phase 1 — Sentinel-2 Download: Region R3 Mediterranean
+2026-04-29 04:13:33.092 | INFO     | __main__:main:138 - Period: 2022-01-01 to 2025-12-31
+2026-04-29 04:13:33.093 | INFO     | __main__:main:139 - Cloud cover: max 20%
+2026-04-29 04:13:33.094 | INFO     | __main__:main:140 - Output: C:\Users\Apple\deep_sea_pulse\outputs\sentinel2\R3
+2026-04-29 04:13:33.094 | INFO     | __main__:main:141 - ============================================================
+2026-04-29 04:13:34.434 | ERROR    | __main__:get_access_token:40 - Token failed: 401 {"error":"invalid_grant","error_description":"Invalid user credentials"}
+2026-04-29 04:24:57.973 | INFO     | __main__:main:136 - ============================================================
+2026-04-29 04:24:57.974 | INFO     | __main__:main:137 - Phase 1 — Sentinel-2 Download: Region R3 Mediterranean
+2026-04-29 04:24:57.975 | INFO     | __main__:main:138 - Period: 2022-01-01 to 2025-12-31
+2026-04-29 04:24:57.976 | INFO     | __main__:main:139 - Cloud cover: max 20%
+2026-04-29 04:24:57.976 | INFO     | __main__:main:140 - Output: C:\Users\Apple\deep_sea_pulse\outputs\sentinel2\R3
+2026-04-29 04:24:57.977 | INFO     | __main__:main:141 - ============================================================
+2026-04-29 04:24:59.097 | ERROR    | __main__:get_access_token:40 - Token failed: 401 {"error":"invalid_grant","error_description":"Invalid user credentials"}
+2026-04-29 04:40:21.211 | INFO     | __main__:main:136 - ============================================================
+2026-04-29 04:40:21.212 | INFO     | __main__:main:137 - Phase 1 — Sentinel-2 Download: Region R3 Mediterranean
+2026-04-29 04:40:21.212 | INFO     | __main__:main:138 - Period: 2022-01-01 to 2025-12-31
+2026-04-29 04:40:21.213 | INFO     | __main__:main:139 - Cloud cover: max 20%
+2026-04-29 04:40:21.213 | INFO     | __main__:main:140 - Output: C:\Users\Apple\deep_sea_pulse\outputs\sentinel2\R3
+2026-04-29 04:40:21.213 | INFO     | __main__:main:141 - ============================================================
+2026-04-29 04:40:22.315 | ERROR    | __main__:get_access_token:40 - Token failed: 401 {"error":"invalid_grant","error_description":"Invalid user credentials"}
+2026-04-29 04:42:59.131 | INFO     | __main__:main:136 - ============================================================
+2026-04-29 04:42:59.132 | INFO     | __main__:main:137 - Phase 1 — Sentinel-2 Download: Region R3 Mediterranean
+2026-04-29 04:42:59.132 | INFO     | __main__:main:138 - Period: 2022-01-01 to 2025-12-31
+2026-04-29 04:42:59.133 | INFO     | __main__:main:139 - Cloud cover: max 20%
+2026-04-29 04:42:59.133 | INFO     | __main__:main:140 - Output: C:\Users\Apple\deep_sea_pulse\outputs\sentinel2\R3
+2026-04-29 04:42:59.133 | INFO     | __main__:main:141 - ============================================================
+2026-04-29 04:43:00.380 | INFO     | __main__:get_access_token:37 - ✓ Copernicus token obtained
+2026-04-29 04:43:00.382 | INFO     | __main__:main:149 - 
+Searching for scenes...
+2026-04-29 04:43:21.853 | INFO     | __main__:search_sentinel2:80 -   Found 100 scenes so far...
+2026-04-29 04:53:22.339 | INFO     | __main__:main:168 - ============================================================
+2026-04-29 04:53:22.340 | INFO     | __main__:main:169 - Phase 1 - Sentinel-2 Download: Region R3 Mediterranean
+2026-04-29 04:53:22.343 | INFO     | __main__:main:170 - Period:     2022-01-01 to 2025-12-31
+2026-04-29 04:53:22.343 | INFO     | __main__:main:171 - Cloud max:  20%
+2026-04-29 04:53:22.344 | INFO     | __main__:main:172 - Output:     C:\Users\Apple\deep_sea_pulse\outputs\sentinel2\R3
+2026-04-29 04:53:22.344 | INFO     | __main__:main:173 - ============================================================
+2026-04-29 04:53:23.604 | INFO     | __main__:get_token:34 - Token obtained successfully
+2026-04-29 04:53:23.606 | INFO     | __main__:main:180 - 
+Searching for scenes...
+2026-04-29 04:53:23.615 | INFO     | __main__:search_scenes:80 -   Searching page 1 (attempt 1/3)...
+2026-04-29 04:53:41.708 | INFO     | __main__:search_scenes:111 -   Running total: 100 scenes
+2026-04-29 04:53:43.710 | INFO     | __main__:search_scenes:80 -   Searching page 2 (attempt 1/3)...
+2026-04-29 04:54:05.130 | INFO     | __main__:search_scenes:111 -   Running total: 200 scenes
+2026-04-29 04:54:07.132 | INFO     | __main__:search_scenes:80 -   Searching page 3 (attempt 1/3)...
+2026-04-29 04:54:29.115 | INFO     | __main__:search_scenes:111 -   Running total: 300 scenes
+2026-04-29 04:54:31.119 | INFO     | __main__:search_scenes:80 -   Searching page 4 (attempt 1/3)...
+2026-04-29 04:55:54.526 | INFO     | __main__:search_scenes:111 -   Running total: 400 scenes
+2026-04-29 04:55:56.529 | INFO     | __main__:search_scenes:80 -   Searching page 5 (attempt 1/3)...
+2026-04-29 04:56:18.884 | INFO     | __main__:search_scenes:111 -   Running total: 500 scenes
+2026-04-29 04:56:20.889 | INFO     | __main__:search_scenes:80 -   Searching page 6 (attempt 1/3)...
+2026-04-29 04:56:40.281 | INFO     | __main__:search_scenes:111 -   Running total: 600 scenes
+2026-04-29 04:56:42.286 | INFO     | __main__:search_scenes:80 -   Searching page 7 (attempt 1/3)...
+2026-04-29 04:57:08.098 | INFO     | __main__:search_scenes:111 -   Running total: 700 scenes
+2026-04-29 04:57:10.102 | INFO     | __main__:search_scenes:80 -   Searching page 8 (attempt 1/3)...
+2026-04-29 04:57:30.700 | INFO     | __main__:search_scenes:111 -   Running total: 800 scenes
+2026-04-29 04:57:32.703 | INFO     | __main__:search_scenes:80 -   Searching page 9 (attempt 1/3)...
+2026-04-29 04:58:03.801 | INFO     | __main__:search_scenes:111 -   Running total: 900 scenes
+2026-04-29 04:58:05.804 | INFO     | __main__:search_scenes:80 -   Searching page 10 (attempt 1/3)...
+2026-04-29 04:58:28.412 | INFO     | __main__:search_scenes:111 -   Running total: 1000 scenes
+2026-04-29 04:58:30.415 | INFO     | __main__:search_scenes:80 -   Searching page 11 (attempt 1/3)...
+2026-04-29 04:58:50.855 | INFO     | __main__:search_scenes:111 -   Running total: 1100 scenes
+2026-04-29 04:58:52.857 | INFO     | __main__:search_scenes:80 -   Searching page 12 (attempt 1/3)...
+2026-04-29 04:59:10.916 | INFO     | __main__:search_scenes:111 -   Running total: 1200 scenes
+2026-04-29 04:59:12.921 | INFO     | __main__:search_scenes:80 -   Searching page 13 (attempt 1/3)...
+2026-04-29 04:59:37.225 | INFO     | __main__:search_scenes:111 -   Running total: 1300 scenes
+2026-04-29 04:59:39.228 | INFO     | __main__:search_scenes:80 -   Searching page 14 (attempt 1/3)...
+2026-04-29 05:00:00.302 | INFO     | __main__:search_scenes:111 -   Running total: 1400 scenes
+2026-04-29 05:00:02.306 | INFO     | __main__:search_scenes:80 -   Searching page 15 (attempt 1/3)...
+2026-04-29 05:00:25.162 | INFO     | __main__:search_scenes:111 -   Running total: 1500 scenes
+2026-04-29 05:00:27.164 | INFO     | __main__:search_scenes:80 -   Searching page 16 (attempt 1/3)...
+2026-04-29 05:00:50.816 | INFO     | __main__:search_scenes:111 -   Running total: 1600 scenes
+2026-04-29 05:00:52.820 | INFO     | __main__:search_scenes:80 -   Searching page 17 (attempt 1/3)...
+2026-04-29 05:01:10.624 | INFO     | __main__:search_scenes:111 -   Running total: 1700 scenes
+2026-04-29 05:01:12.627 | INFO     | __main__:search_scenes:80 -   Searching page 18 (attempt 1/3)...
+2026-04-29 05:01:40.527 | INFO     | __main__:search_scenes:111 -   Running total: 1800 scenes
+2026-04-29 05:01:42.529 | INFO     | __main__:search_scenes:80 -   Searching page 19 (attempt 1/3)...
+2026-04-29 05:01:59.952 | INFO     | __main__:search_scenes:111 -   Running total: 1900 scenes
+2026-04-29 05:02:01.956 | INFO     | __main__:search_scenes:80 -   Searching page 20 (attempt 1/3)...
+2026-04-29 05:02:20.524 | INFO     | __main__:search_scenes:111 -   Running total: 2000 scenes
+2026-04-29 05:02:22.526 | INFO     | __main__:search_scenes:80 -   Searching page 21 (attempt 1/3)...
+2026-04-29 05:03:23.703 | INFO     | __main__:search_scenes:111 -   Running total: 2100 scenes
+2026-04-29 05:03:25.706 | INFO     | __main__:search_scenes:80 -   Searching page 22 (attempt 1/3)...
+2026-04-29 05:03:47.060 | INFO     | __main__:search_scenes:111 -   Running total: 2200 scenes
+2026-04-29 05:03:49.062 | INFO     | __main__:search_scenes:80 -   Searching page 23 (attempt 1/3)...
+2026-04-29 05:04:15.843 | INFO     | __main__:search_scenes:111 -   Running total: 2300 scenes
+2026-04-29 05:04:17.846 | INFO     | __main__:search_scenes:80 -   Searching page 24 (attempt 1/3)...
+2026-04-29 05:04:40.471 | INFO     | __main__:search_scenes:111 -   Running total: 2400 scenes
+2026-04-29 05:04:42.474 | INFO     | __main__:search_scenes:80 -   Searching page 25 (attempt 1/3)...
+2026-04-29 05:04:47.480 | WARNING  | __main__:search_scenes:94 -   Timeout on attempt 1: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-04-29 05:05:02.482 | INFO     | __main__:search_scenes:80 -   Searching page 25 (attempt 2/3)...
+2026-04-29 05:05:26.707 | INFO     | __main__:search_scenes:111 -   Running total: 2500 scenes
+2026-04-29 05:05:28.709 | INFO     | __main__:search_scenes:80 -   Searching page 26 (attempt 1/3)...
+2026-04-29 05:05:51.359 | INFO     | __main__:search_scenes:111 -   Running total: 2600 scenes
+2026-04-29 05:05:53.361 | INFO     | __main__:search_scenes:80 -   Searching page 27 (attempt 1/3)...
+2026-04-29 05:06:23.609 | INFO     | __main__:search_scenes:111 -   Running total: 2700 scenes
+2026-04-29 05:06:25.612 | INFO     | __main__:search_scenes:80 -   Searching page 28 (attempt 1/3)...
+2026-04-29 05:06:49.626 | INFO     | __main__:search_scenes:111 -   Running total: 2800 scenes
+2026-04-29 05:06:51.629 | INFO     | __main__:search_scenes:80 -   Searching page 29 (attempt 1/3)...
+2026-04-29 05:07:08.976 | INFO     | __main__:search_scenes:111 -   Running total: 2900 scenes
+2026-04-29 05:07:10.980 | INFO     | __main__:search_scenes:80 -   Searching page 30 (attempt 1/3)...
+2026-04-29 05:07:34.237 | INFO     | __main__:search_scenes:111 -   Running total: 3000 scenes
+2026-04-29 05:07:36.239 | INFO     | __main__:search_scenes:80 -   Searching page 31 (attempt 1/3)...
+2026-04-29 05:07:54.036 | INFO     | __main__:search_scenes:111 -   Running total: 3100 scenes
+2026-04-29 05:07:56.041 | INFO     | __main__:search_scenes:80 -   Searching page 32 (attempt 1/3)...
+2026-04-29 05:08:25.036 | INFO     | __main__:search_scenes:111 -   Running total: 3200 scenes
+2026-04-29 05:08:27.038 | INFO     | __main__:search_scenes:80 -   Searching page 33 (attempt 1/3)...
+2026-04-29 05:08:48.018 | INFO     | __main__:search_scenes:111 -   Running total: 3300 scenes
+2026-04-29 05:08:50.020 | INFO     | __main__:search_scenes:80 -   Searching page 34 (attempt 1/3)...
+2026-04-29 05:09:13.959 | INFO     | __main__:search_scenes:111 -   Running total: 3400 scenes
+2026-04-29 05:09:15.963 | INFO     | __main__:search_scenes:80 -   Searching page 35 (attempt 1/3)...
+2026-04-29 05:09:34.881 | INFO     | __main__:search_scenes:111 -   Running total: 3500 scenes
+2026-04-29 05:09:36.885 | INFO     | __main__:search_scenes:80 -   Searching page 36 (attempt 1/3)...
+2026-04-29 05:10:03.439 | INFO     | __main__:search_scenes:111 -   Running total: 3600 scenes
+2026-04-29 05:10:05.443 | INFO     | __main__:search_scenes:80 -   Searching page 37 (attempt 1/3)...
+2026-04-29 05:10:30.227 | INFO     | __main__:search_scenes:111 -   Running total: 3700 scenes
+2026-04-29 05:10:32.233 | INFO     | __main__:search_scenes:80 -   Searching page 38 (attempt 1/3)...
+2026-04-29 05:10:51.453 | INFO     | __main__:search_scenes:111 -   Running total: 3800 scenes
+2026-04-29 05:10:53.456 | INFO     | __main__:search_scenes:80 -   Searching page 39 (attempt 1/3)...
+2026-04-29 05:11:18.572 | INFO     | __main__:search_scenes:111 -   Running total: 3900 scenes
+2026-04-29 05:11:20.575 | INFO     | __main__:search_scenes:80 -   Searching page 40 (attempt 1/3)...
+2026-04-29 05:11:41.138 | INFO     | __main__:search_scenes:111 -   Running total: 4000 scenes
+2026-04-29 05:11:43.142 | INFO     | __main__:search_scenes:80 -   Searching page 41 (attempt 1/3)...
+2026-04-29 05:12:08.597 | INFO     | __main__:search_scenes:111 -   Running total: 4100 scenes
+2026-04-29 05:12:10.600 | INFO     | __main__:search_scenes:80 -   Searching page 42 (attempt 1/3)...
+2026-04-29 05:12:37.313 | INFO     | __main__:search_scenes:111 -   Running total: 4200 scenes
+2026-04-29 05:12:39.318 | INFO     | __main__:search_scenes:80 -   Searching page 43 (attempt 1/3)...
+2026-04-29 05:13:05.174 | INFO     | __main__:search_scenes:111 -   Running total: 4300 scenes
+2026-04-29 05:13:07.177 | INFO     | __main__:search_scenes:80 -   Searching page 44 (attempt 1/3)...
+2026-04-29 05:13:32.323 | INFO     | __main__:search_scenes:111 -   Running total: 4400 scenes
+2026-04-29 05:13:34.327 | INFO     | __main__:search_scenes:80 -   Searching page 45 (attempt 1/3)...
+2026-04-29 05:14:00.055 | INFO     | __main__:search_scenes:111 -   Running total: 4500 scenes
+2026-04-29 05:14:02.061 | INFO     | __main__:search_scenes:80 -   Searching page 46 (attempt 1/3)...
+2026-04-29 05:14:35.449 | INFO     | __main__:search_scenes:111 -   Running total: 4600 scenes
+2026-04-29 05:14:37.453 | INFO     | __main__:search_scenes:80 -   Searching page 47 (attempt 1/3)...
+2026-04-29 05:14:55.595 | INFO     | __main__:search_scenes:111 -   Running total: 4700 scenes
+2026-04-29 05:14:57.597 | INFO     | __main__:search_scenes:80 -   Searching page 48 (attempt 1/3)...
+2026-04-29 05:15:13.881 | INFO     | __main__:search_scenes:111 -   Running total: 4800 scenes
+2026-04-29 05:15:15.886 | INFO     | __main__:search_scenes:80 -   Searching page 49 (attempt 1/3)...
+2026-04-29 05:15:42.812 | INFO     | __main__:search_scenes:111 -   Running total: 4900 scenes
+2026-04-29 05:15:44.815 | INFO     | __main__:search_scenes:80 -   Searching page 50 (attempt 1/3)...
+2026-04-29 05:16:08.946 | INFO     | __main__:search_scenes:111 -   Running total: 5000 scenes
+2026-04-29 05:16:10.951 | INFO     | __main__:search_scenes:80 -   Searching page 51 (attempt 1/3)...
+2026-04-29 05:17:29.845 | INFO     | __main__:search_scenes:111 -   Running total: 5100 scenes
+2026-04-29 05:17:31.848 | INFO     | __main__:search_scenes:80 -   Searching page 52 (attempt 1/3)...
+2026-04-29 05:17:51.642 | INFO     | __main__:search_scenes:111 -   Running total: 5200 scenes
+2026-04-29 05:17:53.646 | INFO     | __main__:search_scenes:80 -   Searching page 53 (attempt 1/3)...
+2026-04-29 05:18:19.236 | INFO     | __main__:search_scenes:111 -   Running total: 5300 scenes
+2026-04-29 05:18:21.243 | INFO     | __main__:search_scenes:80 -   Searching page 54 (attempt 1/3)...
+2026-04-29 05:18:39.568 | INFO     | __main__:search_scenes:111 -   Running total: 5400 scenes
+2026-04-29 05:18:41.573 | INFO     | __main__:search_scenes:80 -   Searching page 55 (attempt 1/3)...
+2026-04-29 05:19:00.891 | INFO     | __main__:search_scenes:111 -   Running total: 5500 scenes
+2026-04-29 05:19:02.898 | INFO     | __main__:search_scenes:80 -   Searching page 56 (attempt 1/3)...
+2026-04-29 05:19:22.021 | INFO     | __main__:search_scenes:111 -   Running total: 5600 scenes
+2026-04-29 05:19:24.025 | INFO     | __main__:search_scenes:80 -   Searching page 57 (attempt 1/3)...
+2026-04-29 05:19:40.495 | INFO     | __main__:search_scenes:111 -   Running total: 5700 scenes
+2026-04-29 05:19:42.499 | INFO     | __main__:search_scenes:80 -   Searching page 58 (attempt 1/3)...
+2026-04-29 05:20:04.373 | INFO     | __main__:search_scenes:111 -   Running total: 5800 scenes
+2026-04-29 05:20:06.378 | INFO     | __main__:search_scenes:80 -   Searching page 59 (attempt 1/3)...
+2026-04-29 05:20:22.997 | INFO     | __main__:search_scenes:111 -   Running total: 5900 scenes
+2026-04-29 05:20:25.003 | INFO     | __main__:search_scenes:80 -   Searching page 60 (attempt 1/3)...
+2026-04-29 05:20:52.962 | INFO     | __main__:search_scenes:111 -   Running total: 6000 scenes
+2026-04-29 05:20:54.967 | INFO     | __main__:search_scenes:80 -   Searching page 61 (attempt 1/3)...
+2026-04-29 05:21:19.291 | INFO     | __main__:search_scenes:111 -   Running total: 6100 scenes
+2026-04-29 05:21:21.295 | INFO     | __main__:search_scenes:80 -   Searching page 62 (attempt 1/3)...
+2026-04-29 05:21:46.213 | INFO     | __main__:search_scenes:111 -   Running total: 6200 scenes
+2026-04-29 05:21:48.215 | INFO     | __main__:search_scenes:80 -   Searching page 63 (attempt 1/3)...
+2026-04-29 05:22:14.182 | INFO     | __main__:search_scenes:111 -   Running total: 6300 scenes
+2026-04-29 05:22:16.185 | INFO     | __main__:search_scenes:80 -   Searching page 64 (attempt 1/3)...
+2026-04-29 05:22:38.421 | INFO     | __main__:search_scenes:111 -   Running total: 6400 scenes
+2026-04-29 05:22:40.426 | INFO     | __main__:search_scenes:80 -   Searching page 65 (attempt 1/3)...
+2026-04-29 05:23:06.310 | INFO     | __main__:search_scenes:111 -   Running total: 6500 scenes
+2026-04-29 05:23:08.314 | INFO     | __main__:search_scenes:80 -   Searching page 66 (attempt 1/3)...
+2026-04-29 05:23:26.041 | INFO     | __main__:search_scenes:111 -   Running total: 6600 scenes
+2026-04-29 05:23:28.045 | INFO     | __main__:search_scenes:80 -   Searching page 67 (attempt 1/3)...
+2026-04-29 05:23:48.812 | INFO     | __main__:search_scenes:111 -   Running total: 6700 scenes
+2026-04-29 05:23:50.817 | INFO     | __main__:search_scenes:80 -   Searching page 68 (attempt 1/3)...
+2026-04-29 05:24:11.038 | INFO     | __main__:search_scenes:111 -   Running total: 6800 scenes
+2026-04-29 05:24:13.043 | INFO     | __main__:search_scenes:80 -   Searching page 69 (attempt 1/3)...
+2026-04-29 05:24:33.138 | INFO     | __main__:search_scenes:111 -   Running total: 6900 scenes
+2026-04-29 05:24:35.141 | INFO     | __main__:search_scenes:80 -   Searching page 70 (attempt 1/3)...
+2026-04-29 05:24:57.755 | INFO     | __main__:search_scenes:111 -   Running total: 7000 scenes
+2026-04-29 05:24:59.761 | INFO     | __main__:search_scenes:80 -   Searching page 71 (attempt 1/3)...
+2026-04-29 05:25:25.091 | INFO     | __main__:search_scenes:111 -   Running total: 7100 scenes
+2026-04-29 05:25:27.096 | INFO     | __main__:search_scenes:80 -   Searching page 72 (attempt 1/3)...
+2026-04-29 05:25:45.090 | INFO     | __main__:search_scenes:111 -   Running total: 7200 scenes
+2026-04-29 05:25:47.095 | INFO     | __main__:search_scenes:80 -   Searching page 73 (attempt 1/3)...
+2026-04-29 05:26:06.929 | INFO     | __main__:search_scenes:111 -   Running total: 7300 scenes
+2026-04-29 05:26:08.934 | INFO     | __main__:search_scenes:80 -   Searching page 74 (attempt 1/3)...
+2026-04-29 05:26:28.335 | INFO     | __main__:search_scenes:111 -   Running total: 7400 scenes
+2026-04-29 05:26:30.339 | INFO     | __main__:search_scenes:80 -   Searching page 75 (attempt 1/3)...
+2026-04-29 05:26:53.968 | INFO     | __main__:search_scenes:111 -   Running total: 7500 scenes
+2026-04-29 05:26:55.972 | INFO     | __main__:search_scenes:80 -   Searching page 76 (attempt 1/3)...
+2026-04-29 05:27:15.089 | INFO     | __main__:search_scenes:111 -   Running total: 7600 scenes
+2026-04-29 05:27:17.093 | INFO     | __main__:search_scenes:80 -   Searching page 77 (attempt 1/3)...
+2026-04-29 05:27:34.831 | INFO     | __main__:search_scenes:111 -   Running total: 7700 scenes
+2026-04-29 05:27:36.835 | INFO     | __main__:search_scenes:80 -   Searching page 78 (attempt 1/3)...
+2026-04-29 05:27:54.491 | INFO     | __main__:search_scenes:111 -   Running total: 7800 scenes
+2026-04-29 05:27:56.495 | INFO     | __main__:search_scenes:80 -   Searching page 79 (attempt 1/3)...
+2026-04-29 05:28:17.822 | INFO     | __main__:search_scenes:111 -   Running total: 7900 scenes
+2026-04-29 05:28:19.826 | INFO     | __main__:search_scenes:80 -   Searching page 80 (attempt 1/3)...
+2026-04-29 05:28:46.154 | INFO     | __main__:search_scenes:111 -   Running total: 8000 scenes
+2026-04-29 05:28:48.159 | INFO     | __main__:search_scenes:80 -   Searching page 81 (attempt 1/3)...
+2026-04-29 05:30:01.192 | INFO     | __main__:search_scenes:111 -   Running total: 8100 scenes
+2026-04-29 05:30:03.196 | INFO     | __main__:search_scenes:80 -   Searching page 82 (attempt 1/3)...
+2026-04-29 05:30:25.465 | INFO     | __main__:search_scenes:111 -   Running total: 8200 scenes
+2026-04-29 05:30:27.469 | INFO     | __main__:search_scenes:80 -   Searching page 83 (attempt 1/3)...
+2026-04-29 05:30:54.283 | INFO     | __main__:search_scenes:111 -   Running total: 8300 scenes
+2026-04-29 05:30:56.287 | INFO     | __main__:search_scenes:80 -   Searching page 84 (attempt 1/3)...
+2026-04-29 05:31:14.377 | INFO     | __main__:search_scenes:111 -   Running total: 8400 scenes
+2026-04-29 05:31:16.382 | INFO     | __main__:search_scenes:80 -   Searching page 85 (attempt 1/3)...
+2026-04-29 05:31:41.331 | INFO     | __main__:search_scenes:111 -   Running total: 8500 scenes
+2026-04-29 05:31:43.335 | INFO     | __main__:search_scenes:80 -   Searching page 86 (attempt 1/3)...
+2026-04-29 05:32:04.157 | INFO     | __main__:search_scenes:111 -   Running total: 8600 scenes
+2026-04-29 05:32:06.162 | INFO     | __main__:search_scenes:80 -   Searching page 87 (attempt 1/3)...
+2026-04-29 05:32:29.945 | INFO     | __main__:search_scenes:111 -   Running total: 8700 scenes
+2026-04-29 05:32:31.950 | INFO     | __main__:search_scenes:80 -   Searching page 88 (attempt 1/3)...
+2026-04-29 05:32:58.736 | INFO     | __main__:search_scenes:111 -   Running total: 8800 scenes
+2026-04-29 05:33:00.739 | INFO     | __main__:search_scenes:80 -   Searching page 89 (attempt 1/3)...
+2026-04-29 05:33:25.828 | INFO     | __main__:search_scenes:111 -   Running total: 8900 scenes
+2026-04-29 05:33:27.835 | INFO     | __main__:search_scenes:80 -   Searching page 90 (attempt 1/3)...
+2026-04-29 05:34:37.361 | INFO     | __main__:search_scenes:111 -   Running total: 9000 scenes
+2026-04-29 05:34:39.364 | INFO     | __main__:search_scenes:80 -   Searching page 91 (attempt 1/3)...
+2026-04-29 05:35:04.624 | INFO     | __main__:search_scenes:111 -   Running total: 9100 scenes
+2026-04-29 05:35:06.627 | INFO     | __main__:search_scenes:80 -   Searching page 92 (attempt 1/3)...
+2026-04-29 05:35:24.398 | INFO     | __main__:search_scenes:111 -   Running total: 9200 scenes
+2026-04-29 05:35:26.403 | INFO     | __main__:search_scenes:80 -   Searching page 93 (attempt 1/3)...
+2026-04-29 05:35:52.848 | INFO     | __main__:search_scenes:111 -   Running total: 9300 scenes
+2026-04-29 05:35:54.851 | INFO     | __main__:search_scenes:80 -   Searching page 94 (attempt 1/3)...
+2026-04-29 05:37:01.501 | INFO     | __main__:search_scenes:111 -   Running total: 9400 scenes
+2026-04-29 05:37:03.505 | INFO     | __main__:search_scenes:80 -   Searching page 95 (attempt 1/3)...
+2026-04-29 05:37:27.517 | INFO     | __main__:search_scenes:111 -   Running total: 9500 scenes
+2026-04-29 05:37:29.522 | INFO     | __main__:search_scenes:80 -   Searching page 96 (attempt 1/3)...
+2026-04-29 05:37:49.008 | INFO     | __main__:search_scenes:111 -   Running total: 9600 scenes
+2026-04-29 05:37:51.011 | INFO     | __main__:search_scenes:80 -   Searching page 97 (attempt 1/3)...
+2026-04-29 05:38:08.529 | INFO     | __main__:search_scenes:111 -   Running total: 9700 scenes
+2026-04-29 05:38:10.533 | INFO     | __main__:search_scenes:80 -   Searching page 98 (attempt 1/3)...
+2026-04-29 05:38:30.149 | INFO     | __main__:search_scenes:111 -   Running total: 9800 scenes
+2026-04-29 05:38:32.153 | INFO     | __main__:search_scenes:80 -   Searching page 99 (attempt 1/3)...
+2026-04-29 05:39:18.351 | INFO     | __main__:search_scenes:111 -   Running total: 9900 scenes
+2026-04-29 05:39:20.355 | INFO     | __main__:search_scenes:80 -   Searching page 100 (attempt 1/3)...
+2026-04-29 05:39:37.873 | INFO     | __main__:search_scenes:111 -   Running total: 10000 scenes
+2026-04-29 05:39:39.878 | INFO     | __main__:search_scenes:80 -   Searching page 101 (attempt 1/3)...
+2026-04-29 05:39:57.101 | INFO     | __main__:search_scenes:111 -   Running total: 10100 scenes
+2026-04-29 05:39:59.103 | INFO     | __main__:search_scenes:80 -   Searching page 102 (attempt 1/3)...
+2026-04-29 05:40:00.262 | ERROR    | __main__:search_scenes:102 -   Search error: 422
+2026-04-29 05:40:00.265 | INFO     | __main__:main:182 - 
+Total scenes found: 10100
+2026-04-29 05:40:00.455 | INFO     | __main__:main:195 - Manifest saved: C:\Users\Apple\deep_sea_pulse\outputs\sentinel2\R3\manifest.json
+2026-04-29 05:40:00.456 | INFO     | __main__:main:196 - 
+Starting downloads...
+2026-04-29 05:40:00.459 | INFO     | __main__:main:200 - 
+Scene 1/10100
+2026-04-29 05:40:01.846 | ERROR    | __main__:download_scene:152 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(1197344e-b18f-4a3b-98b4-169aa03a2425)/$value
+2026-04-29 05:40:01.847 | INFO     | __main__:main:200 - 
+Scene 2/10100
+2026-04-29 05:40:02.938 | ERROR    | __main__:download_scene:152 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(6195436d-ec8a-4c93-ae31-653dbed971df)/$value
+2026-04-29 05:40:02.939 | INFO     | __main__:main:200 - 
+Scene 3/10100
+2026-04-29 05:40:03.988 | ERROR    | __main__:download_scene:152 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(8975f95f-0e56-4a30-9389-1c5369832c3e)/$value
+2026-04-29 05:40:03.989 | INFO     | __main__:main:200 - 
+Scene 4/10100
+2026-04-29 05:40:05.065 | ERROR    | __main__:download_scene:152 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(af6bc4fe-333a-483b-ad56-7f215b52e11f)/$value
+2026-04-29 05:40:05.067 | INFO     | __main__:main:200 - 
+Scene 5/10100
+2026-04-29 05:40:06.120 | ERROR    | __main__:download_scene:152 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(ef938761-e5ed-468f-a8c6-c7ab0a3848cd)/$value
+2026-04-29 05:40:06.122 | INFO     | __main__:main:200 - 
+Scene 6/10100
+2026-04-29 05:40:07.197 | ERROR    | __main__:download_scene:152 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(f6962554-5bc6-4b14-a4c0-0729c7d29d31)/$value
+2026-04-29 05:40:07.199 | INFO     | __main__:main:200 - 
+Scene 7/10100
+2026-04-29 05:40:08.304 | ERROR    | __main__:download_scene:152 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(2cd3079e-aef6-406c-990a-483bdc6f1f78)/$value
+2026-04-29 05:40:08.306 | INFO     | __main__:main:200 - 
+Scene 8/10100
+2026-04-29 05:40:09.395 | ERROR    | __main__:download_scene:152 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(41012303-9b9c-4d39-8d97-bcb4286cb255)/$value
+2026-04-29 05:40:09.397 | INFO     | __main__:main:200 - 
+Scene 9/10100
+2026-04-29 05:40:10.486 | ERROR    | __main__:download_scene:152 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(412b7c03-c485-42a2-94f5-1ef4afd4329d)/$value
+2026-04-29 05:40:10.487 | INFO     | __main__:main:200 - 
+Scene 10/10100
+2026-04-29 05:40:11.570 | ERROR    | __main__:download_scene:152 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(5bef9249-0d07-4420-8368-59d1a621828d)/$value
+2026-04-29 05:40:11.572 | INFO     | __main__:main:200 - 
+Scene 11/10100
+2026-04-29 05:40:12.672 | ERROR    | __main__:download_scene:152 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(7a5f4322-bcf6-46ef-b666-34f05d65ae92)/$value
+2026-04-29 05:40:12.674 | INFO     | __main__:main:200 - 
+Scene 12/10100
+2026-04-29 05:40:13.722 | ERROR    | __main__:download_scene:152 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(89dceb1f-c7bc-4648-a355-f993fb392910)/$value
+2026-04-29 05:40:13.724 | INFO     | __main__:main:200 - 
+Scene 13/10100
+2026-04-29 05:40:14.763 | ERROR    | __main__:download_scene:152 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(a97566a3-7393-467c-91af-0079c15b043d)/$value
+2026-04-29 05:40:14.764 | INFO     | __main__:main:200 - 
+Scene 14/10100
+2026-04-29 05:40:15.797 | ERROR    | __main__:download_scene:152 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(bc563ba1-f02b-45d0-af91-58caae9fcb2d)/$value
+2026-04-29 05:40:15.798 | INFO     | __main__:main:200 - 
+Scene 15/10100
+2026-04-29 05:40:16.883 | ERROR    | __main__:download_scene:152 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(c51bf2e4-f5b9-4a4e-bca6-6da9e7edf89b)/$value
+2026-04-29 05:40:16.884 | INFO     | __main__:main:200 - 
+Scene 16/10100
+2026-04-29 05:40:17.973 | ERROR    | __main__:download_scene:152 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(c831d7a0-2bc8-4638-8037-81dfa33f5563)/$value
+2026-04-29 05:40:17.975 | INFO     | __main__:main:200 - 
+Scene 17/10100
+2026-04-29 05:40:19.054 | ERROR    | __main__:download_scene:152 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(cb658ece-3d28-4610-8c09-d5cab4101c23)/$value
+2026-04-29 05:40:19.055 | INFO     | __main__:main:200 - 
+Scene 18/10100
+2026-04-29 05:40:20.089 | ERROR    | __main__:download_scene:152 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(dd4c4d5e-5eee-4071-a491-b8be7d178b53)/$value
+2026-04-29 05:40:20.090 | INFO     | __main__:main:200 - 
+Scene 19/10100
+2026-04-29 05:40:21.227 | ERROR    | __main__:download_scene:152 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(22732139-391c-4d18-bec5-98fa7767568b)/$value
+2026-04-29 05:40:21.229 | INFO     | __main__:main:200 - 
+Scene 20/10100
+2026-04-29 05:40:22.321 | ERROR    | __main__:download_scene:152 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(6938ac94-9128-405a-aa09-a43fa0635f01)/$value
+2026-04-29 05:40:22.322 | INFO     | __main__:main:200 - 
+Scene 21/10100
+2026-04-29 05:40:23.411 | ERROR    | __main__:download_scene:152 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(d49270cf-cf9c-41ab-b847-021d409af87b)/$value
+2026-04-29 05:40:23.412 | INFO     | __main__:main:200 - 
+Scene 22/10100
+2026-04-29 05:40:24.437 | ERROR    | __main__:download_scene:152 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(19bd192a-fa9f-4e98-b09b-e53c8d919c63)/$value
+2026-04-29 05:40:24.438 | INFO     | __main__:main:200 - 
+Scene 23/10100
+2026-04-29 05:40:25.479 | ERROR    | __main__:download_scene:152 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(5b400429-4c28-46ad-a306-52a6ce8660d1)/$value
+2026-04-29 05:40:25.480 | INFO     | __main__:main:200 - 
+Scene 24/10100
+2026-04-29 05:40:26.534 | ERROR    | __main__:download_scene:152 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(7246b179-0780-4175-87f3-3640ec2a5ed2)/$value
+2026-04-29 05:40:26.536 | INFO     | __main__:main:200 - 
+Scene 25/10100
+2026-04-29 05:40:27.611 | ERROR    | __main__:download_scene:152 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(956d287a-10f3-4643-a2a5-4cbfa97c6c53)/$value
+2026-04-29 05:40:27.612 | INFO     | __main__:main:200 - 
+Scene 26/10100
+2026-04-29 05:40:28.653 | ERROR    | __main__:download_scene:152 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(aa6977e4-02b8-4e74-abd5-be00995061c5)/$value
+2026-04-29 05:40:28.654 | INFO     | __main__:main:200 - 
+Scene 27/10100
+2026-04-29 05:40:29.740 | ERROR    | __main__:download_scene:152 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(bdc22b45-2f6a-4992-b9f5-f0e50ae9db33)/$value
+2026-04-29 05:40:29.742 | INFO     | __main__:main:200 - 
+Scene 28/10100
+2026-04-29 05:40:30.797 | ERROR    | __main__:download_scene:152 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(cbcc5615-fe10-4d5b-a974-f494aec51cbe)/$value
+2026-04-29 05:40:30.798 | INFO     | __main__:main:200 - 
+Scene 29/10100
+2026-04-29 05:40:31.882 | ERROR    | __main__:download_scene:152 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(f2439d0a-5e80-4af9-b3af-0a0ac6de57bd)/$value
+2026-04-29 05:40:31.883 | INFO     | __main__:main:200 - 
+Scene 30/10100
+2026-04-29 05:40:32.982 | ERROR    | __main__:download_scene:152 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(f40808d0-6154-4f1e-af21-95c632433ac5)/$value
+2026-04-29 05:40:32.984 | INFO     | __main__:main:200 - 
+Scene 31/10100
+2026-04-29 05:40:34.075 | ERROR    | __main__:download_scene:152 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(96827295-822b-4f11-9dbc-51b6a4dee214)/$value
+2026-04-29 05:40:34.077 | INFO     | __main__:main:200 - 
+Scene 32/10100
+2026-04-29 05:40:35.158 | ERROR    | __main__:download_scene:152 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(07c7343c-22d9-4e6b-8212-fc10617c9dd3)/$value
+2026-04-29 05:40:35.159 | INFO     | __main__:main:200 - 
+Scene 33/10100
+2026-04-29 05:40:36.249 | ERROR    | __main__:download_scene:152 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(09fc349b-be5d-4ab3-99ad-6a550710009a)/$value
+2026-04-29 05:40:36.251 | INFO     | __main__:main:200 - 
+Scene 34/10100
+2026-04-29 05:40:37.317 | ERROR    | __main__:download_scene:152 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(11a673cc-2d1c-451d-bb54-9383ef24de00)/$value
+2026-04-29 05:40:37.320 | INFO     | __main__:main:200 - 
+Scene 35/10100
+2026-04-29 05:40:38.392 | ERROR    | __main__:download_scene:152 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(201c5d94-b1a4-4fa7-b19f-28362d58d6b1)/$value
+2026-04-29 05:40:38.393 | INFO     | __main__:main:200 - 
+Scene 36/10100
+2026-04-29 05:40:39.468 | ERROR    | __main__:download_scene:152 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(344cc1b2-96bf-458e-b2ee-ffc830b75a58)/$value
+2026-04-29 05:40:39.473 | INFO     | __main__:main:200 - 
+Scene 37/10100
+2026-04-29 05:40:40.511 | ERROR    | __main__:download_scene:152 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(39e3e9ef-31f3-415f-9886-30f19e3aa8ff)/$value
+2026-04-29 05:40:40.513 | INFO     | __main__:main:200 - 
+Scene 38/10100
+2026-04-29 05:40:41.607 | ERROR    | __main__:download_scene:152 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(63984d8a-1ec5-4a09-a0eb-6ffd0d223d8c)/$value
+2026-04-29 05:40:41.608 | INFO     | __main__:main:200 - 
+Scene 39/10100
+2026-04-29 05:40:42.675 | ERROR    | __main__:download_scene:152 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(68acce28-4af5-41a3-9d33-2d806b577c44)/$value
+2026-04-29 05:40:42.676 | INFO     | __main__:main:200 - 
+Scene 40/10100
+2026-04-29 05:40:43.776 | ERROR    | __main__:download_scene:152 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(6cfa49c4-db02-4fd4-9b18-8f87e9f97b76)/$value
+2026-04-29 05:40:43.777 | INFO     | __main__:main:200 - 
+Scene 41/10100
+2026-04-29 05:40:44.873 | ERROR    | __main__:download_scene:152 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(7a1cc051-b979-4dac-91c6-cffcd4b8c122)/$value
+2026-04-29 05:40:44.874 | INFO     | __main__:main:200 - 
+Scene 42/10100
+2026-04-29 05:40:45.955 | ERROR    | __main__:download_scene:152 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(9b6b7d78-2bb7-4ab7-b721-e8a5a2524f21)/$value
+2026-04-29 05:40:45.956 | INFO     | __main__:main:200 - 
+Scene 43/10100
+2026-04-29 05:40:46.995 | ERROR    | __main__:download_scene:152 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(9d7813cf-ab91-4bd2-8878-bda9da6c4c02)/$value
+2026-04-29 05:40:46.997 | INFO     | __main__:main:200 - 
+Scene 44/10100
+2026-04-29 05:40:48.073 | ERROR    | __main__:download_scene:152 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(afbd2209-b717-436f-8116-092b7f7741b1)/$value
+2026-04-29 05:40:48.075 | INFO     | __main__:main:200 - 
+Scene 45/10100
+2026-04-29 05:40:49.186 | ERROR    | __main__:download_scene:152 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(b814c396-ee86-4e81-b506-97f10538eabe)/$value
+2026-04-29 05:40:49.187 | INFO     | __main__:main:200 - 
+Scene 46/10100
+2026-04-29 05:40:50.230 | ERROR    | __main__:download_scene:152 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(c8eeb970-a1c1-4ada-a09a-c75b1b7afeab)/$value
+2026-04-29 05:40:50.231 | INFO     | __main__:main:200 - 
+Scene 47/10100
+2026-04-29 05:40:51.282 | ERROR    | __main__:download_scene:152 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(d35bae4c-79e3-48e9-8f58-279ed3be8329)/$value
+2026-04-29 05:40:51.284 | INFO     | __main__:main:200 - 
+Scene 48/10100
+2026-04-29 05:40:52.367 | ERROR    | __main__:download_scene:152 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(d46b5865-5e5e-44a2-b149-00ffdfce08e2)/$value
+2026-04-29 05:40:52.368 | INFO     | __main__:main:200 - 
+Scene 49/10100
+2026-04-29 05:40:53.414 | ERROR    | __main__:download_scene:152 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(d62db5af-b6fd-4f41-9838-46b653bfc9a8)/$value
+2026-04-29 05:40:53.416 | INFO     | __main__:main:200 - 
+Scene 50/10100
+2026-04-29 05:40:53.417 | INFO     | __main__:main:202 - Refreshing token...
+2026-04-29 05:40:54.693 | INFO     | __main__:get_token:34 - Token obtained successfully
+2026-04-29 05:40:56.636 | INFO     | __main__:download_scene:139 -   Downloading: S2A_MSIL2A_20220104T103431_N0510_R108_T31SEA_20240423T125553 (1132 MB)
+2026-04-29 05:44:32.595 | SUCCESS  | __main__:download_scene:149 -   Done: S2A_MSIL2A_20220104T103431_N0510_R108_T31SEA_20240423T125553
+2026-04-29 05:44:32.597 | INFO     | __main__:main:200 - 
+Scene 51/10100
+2026-04-29 05:44:34.617 | INFO     | __main__:download_scene:139 -   Downloading: S2A_MSIL2A_20220104T103431_N0510_R108_T31SDD_20240423T125553 (278 MB)
+2026-04-29 05:45:07.467 | SUCCESS  | __main__:download_scene:149 -   Done: S2A_MSIL2A_20220104T103431_N0510_R108_T31SDD_20240423T125553
+2026-04-29 05:45:07.471 | INFO     | __main__:main:200 - 
+Scene 52/10100
+2026-04-29 05:45:09.380 | INFO     | __main__:download_scene:139 -   Downloading: S2A_MSIL2A_20220104T103431_N0510_R108_T31SFC_20240423T125553 (725 MB)
+2026-04-29 05:46:38.796 | SUCCESS  | __main__:download_scene:149 -   Done: S2A_MSIL2A_20220104T103431_N0510_R108_T31SFC_20240423T125553
+2026-04-29 05:46:38.798 | INFO     | __main__:main:200 - 
+Scene 53/10100
+2026-04-29 05:46:40.958 | INFO     | __main__:download_scene:139 -   Downloading: S2A_MSIL2A_20220104T103431_N0510_R108_T31SDB_20240423T125553 (512 MB)
+2026-04-29 05:48:27.630 | ERROR    | __main__:download_scene:152 -   Failed: ('Connection broken: IncompleteRead(324418293 bytes read, 212020199 more expected)', IncompleteRead(324418293 bytes read, 212020199 more expected))
+2026-04-29 05:48:27.659 | INFO     | __main__:main:200 - 
+Scene 54/10100
+2026-04-29 05:48:29.713 | INFO     | __main__:download_scene:139 -   Downloading: S2A_MSIL2A_20220104T103431_N0510_R108_T31SGB_20240423T125553 (241 MB)
+2026-04-29 05:48:58.643 | SUCCESS  | __main__:download_scene:149 -   Done: S2A_MSIL2A_20220104T103431_N0510_R108_T31SGB_20240423T125553
+2026-04-29 05:48:58.645 | INFO     | __main__:main:200 - 
+Scene 55/10100
+2026-04-29 05:49:00.739 | INFO     | __main__:download_scene:139 -   Downloading: S2A_MSIL2A_20220104T103431_N0510_R108_T31SFB_20240423T125553 (696 MB)
+2026-04-29 06:15:57.358 | INFO     | __main__:main:168 - ============================================================
+2026-04-29 06:15:57.359 | INFO     | __main__:main:169 - Phase 1 - Sentinel-2 Download: Region R3 Mediterranean
+2026-04-29 06:15:57.359 | INFO     | __main__:main:170 - Period:     2022-01-01 to 2025-12-31
+2026-04-29 06:15:57.359 | INFO     | __main__:main:171 - Cloud max:  20%
+2026-04-29 06:15:57.360 | INFO     | __main__:main:172 - Output:     C:\Users\Apple\deep_sea_pulse\outputs\sentinel2\R3
+2026-04-29 06:15:57.360 | INFO     | __main__:main:173 - ============================================================
+2026-04-29 06:15:58.650 | INFO     | __main__:get_token:34 - Token obtained successfully
+2026-04-29 06:15:58.656 | INFO     | __main__:main:180 - 
+Searching for scenes...
+2026-04-29 06:15:58.662 | INFO     | __main__:search_scenes:80 -   Searching page 1 (attempt 1/3)...
+2026-04-29 06:16:18.050 | INFO     | __main__:search_scenes:111 -   Running total: 100 scenes
+2026-04-29 06:16:20.056 | INFO     | __main__:search_scenes:80 -   Searching page 2 (attempt 1/3)...
+2026-04-29 06:16:35.976 | INFO     | __main__:search_scenes:111 -   Running total: 200 scenes
+2026-04-29 06:16:37.982 | INFO     | __main__:search_scenes:80 -   Searching page 3 (attempt 1/3)...
+2026-04-29 06:17:33.243 | INFO     | __main__:search_scenes:111 -   Running total: 300 scenes
+2026-04-29 06:17:35.248 | INFO     | __main__:search_scenes:80 -   Searching page 4 (attempt 1/3)...
+2026-04-29 06:17:52.022 | INFO     | __main__:search_scenes:111 -   Running total: 400 scenes
+2026-04-29 06:17:54.027 | INFO     | __main__:search_scenes:80 -   Searching page 5 (attempt 1/3)...
+2026-04-29 06:18:13.976 | INFO     | __main__:search_scenes:111 -   Running total: 500 scenes
+2026-04-29 06:18:15.982 | INFO     | __main__:search_scenes:80 -   Searching page 6 (attempt 1/3)...
+2026-04-29 06:31:18.254 | INFO     | __main__:main:146 - ============================================================
+2026-04-29 06:31:18.255 | INFO     | __main__:main:147 - Phase 1 - Sentinel-2 SMART Seasonal Download
+2026-04-29 06:31:18.255 | INFO     | __main__:main:148 - Region:  R3 Western Mediterranean
+2026-04-29 06:31:18.256 | INFO     | __main__:main:149 - Tiles:   ['31TGK', '31TGJ', '31TGL', '32TMP', '32TMQ', '33TUG']
+2026-04-29 06:31:18.256 | INFO     | __main__:main:150 - Years:   [2022, 2023, 2024, 2025]
+2026-04-29 06:31:18.256 | INFO     | __main__:main:151 - Seasons: ['Winter', 'Spring', 'Summer', 'Autumn']
+2026-04-29 06:31:18.256 | INFO     | __main__:main:152 - Target:  ~96 scenes
+2026-04-29 06:31:18.256 | INFO     | __main__:main:153 - Output:  C:\Users\Apple\deep_sea_pulse\outputs\sentinel2\R3
+2026-04-29 06:31:18.256 | INFO     | __main__:main:154 - ============================================================
+2026-04-29 06:31:19.704 | INFO     | __main__:get_token:47 - Token obtained successfully
+2026-04-29 06:31:19.709 | INFO     | __main__:main:172 - 
+Total slots to search: 96
+2026-04-29 06:31:19.710 | INFO     | __main__:main:173 - Starting search and download...
+
+2026-04-29 06:31:19.710 | INFO     | __main__:main:179 - [1/96] 2022 Winter Tile 31TGK
+2026-04-29 06:31:21.269 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20220114T103401_N0510_R108_T31TGK_20240429T2
+2026-04-29 06:31:23.189 | INFO     | __main__:download_scene:119 -   Downloading: S2A_MSIL2A_20220114T103401_N0510_R108_T31TGK_20240429T2 (1198 MB)
+2026-04-29 06:33:45.849 | SUCCESS  | __main__:download_scene:129 -   Done: S2A_MSIL2A_20220114T103401_N0510_R108_T31TGK_20240429T232315
+2026-04-29 06:33:47.852 | INFO     | __main__:main:179 - [2/96] 2022 Winter Tile 31TGJ
+2026-04-29 06:33:49.319 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20220106T102319_N0510_R065_T31TGJ_20240424T2
+2026-04-29 06:33:51.359 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20220106T102319_N0510_R065_T31TGJ_20240424T2 (176 MB)
+2026-04-29 06:34:12.320 | SUCCESS  | __main__:download_scene:129 -   Done: S2B_MSIL2A_20220106T102319_N0510_R065_T31TGJ_20240424T224321
+2026-04-29 06:34:14.325 | INFO     | __main__:main:179 - [3/96] 2022 Winter Tile 31TGL
+2026-04-29 06:34:16.039 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20220114T103401_N0510_R108_T31TGL_20240429T2
+2026-04-29 06:34:19.113 | INFO     | __main__:download_scene:119 -   Downloading: S2A_MSIL2A_20220114T103401_N0510_R108_T31TGL_20240429T2 (1198 MB)
+2026-04-29 06:36:46.970 | SUCCESS  | __main__:download_scene:129 -   Done: S2A_MSIL2A_20220114T103401_N0510_R108_T31TGL_20240429T232315
+2026-04-29 06:36:48.974 | INFO     | __main__:main:179 - [4/96] 2022 Winter Tile 32TMP
+2026-04-29 06:36:50.258 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20220109T103319_N0510_R108_T32TMP_20240426T1
+2026-04-29 06:36:52.707 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20220109T103319_N0510_R108_T32TMP_20240426T1 (171 MB)
+2026-04-29 06:37:13.098 | SUCCESS  | __main__:download_scene:129 -   Done: S2B_MSIL2A_20220109T103319_N0510_R108_T32TMP_20240426T172724
+2026-04-29 06:37:15.101 | INFO     | __main__:main:179 - [5/96] 2022 Winter Tile 32TMQ
+2026-04-29 06:37:16.986 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20220109T103319_N0510_R108_T32TMQ_20240426T1
+2026-04-29 06:37:19.140 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20220109T103319_N0510_R108_T32TMQ_20240426T1 (539 MB)
+2026-04-29 06:39:04.125 | SUCCESS  | __main__:download_scene:129 -   Done: S2B_MSIL2A_20220109T103319_N0510_R108_T32TMQ_20240426T172724
+2026-04-29 06:39:06.129 | INFO     | __main__:main:179 - [6/96] 2022 Winter Tile 33TUG
+2026-04-29 06:39:07.609 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20220115T100351_N0500_R122_T33TUG_20230205T1
+2026-04-29 06:39:09.831 | INFO     | __main__:download_scene:119 -   Downloading: S2A_MSIL2A_20220115T100351_N0500_R122_T33TUG_20230205T1 (1188 MB)
+2026-04-29 06:42:34.031 | SUCCESS  | __main__:download_scene:129 -   Done: S2A_MSIL2A_20220115T100351_N0500_R122_T33TUG_20230205T191237
+2026-04-29 06:42:36.035 | INFO     | __main__:main:179 - [7/96] 2022 Spring Tile 31TGK
+2026-04-29 06:42:37.383 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20220323T103639_N0510_R008_T31TGK_20240525T1
+2026-04-29 06:42:39.415 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20220323T103639_N0510_R008_T31TGK_20240525T1 (261 MB)
+2026-04-29 06:43:13.842 | SUCCESS  | __main__:download_scene:129 -   Done: S2B_MSIL2A_20220323T103639_N0510_R008_T31TGK_20240525T162111
+2026-04-29 06:43:15.846 | INFO     | __main__:main:179 - [8/96] 2022 Spring Tile 31TGJ
+2026-04-29 06:43:17.237 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20220322T101711_N0510_R065_T31TGJ_20240526T0
+2026-04-29 06:43:19.228 | INFO     | __main__:download_scene:119 -   Downloading: S2A_MSIL2A_20220322T101711_N0510_R065_T31TGJ_20240526T0 (182 MB)
+2026-04-29 06:43:41.030 | SUCCESS  | __main__:download_scene:129 -   Done: S2A_MSIL2A_20220322T101711_N0510_R065_T31TGJ_20240526T094620
+2026-04-29 06:43:43.035 | INFO     | __main__:main:179 - [9/96] 2022 Spring Tile 31TGL
+2026-04-29 06:43:44.271 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20220323T103639_N0510_R008_T31TGL_20240525T1
+2026-04-29 06:43:46.625 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20220323T103639_N0510_R008_T31TGL_20240525T1 (61 MB)
+2026-04-29 06:43:48.711 | ERROR    | __main__:download_scene:132 -   Failed: ('Connection broken: IncompleteRead(1892721 bytes read, 62488012 more expected)', IncompleteRead(1892721 bytes read, 62488012 more expected))
+2026-04-29 06:43:50.714 | INFO     | __main__:main:179 - [10/96] 2022 Spring Tile 32TMP
+2026-04-29 06:43:52.257 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20220322T101711_N0510_R065_T32TMP_20240526T0
+2026-04-29 06:43:54.716 | INFO     | __main__:download_scene:119 -   Downloading: S2A_MSIL2A_20220322T101711_N0510_R065_T32TMP_20240526T0 (832 MB)
+2026-04-29 06:55:59.296 | SUCCESS  | __main__:download_scene:129 -   Done: S2A_MSIL2A_20220322T101711_N0510_R065_T32TMP_20240526T094620
+2026-04-29 06:56:01.298 | INFO     | __main__:main:179 - [11/96] 2022 Spring Tile 32TMQ
+2026-04-29 06:56:02.591 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20220320T102639_N0510_R108_T32TMQ_20240525T2
+2026-04-29 06:56:04.638 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20220320T102639_N0510_R108_T32TMQ_20240525T2 (557 MB)
+2026-04-29 06:57:14.383 | SUCCESS  | __main__:download_scene:129 -   Done: S2B_MSIL2A_20220320T102639_N0510_R108_T32TMQ_20240525T215800
+2026-04-29 06:57:16.386 | INFO     | __main__:main:179 - [12/96] 2022 Spring Tile 33TUG
+2026-04-29 06:57:17.857 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20220321T100029_N0510_R122_T33TUG_20240523T1
+2026-04-29 06:57:19.904 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20220321T100029_N0510_R122_T33TUG_20240523T1 (1171 MB)
+2026-04-29 06:59:39.692 | SUCCESS  | __main__:download_scene:129 -   Done: S2B_MSIL2A_20220321T100029_N0510_R122_T33TUG_20240523T141544
+2026-04-29 06:59:41.695 | INFO     | __main__:main:179 - [13/96] 2022 Summer Tile 31TGK
+2026-04-29 06:59:44.407 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20220616T103631_N0510_R008_T31TGK_20240628T1
+2026-04-29 06:59:46.710 | INFO     | __main__:download_scene:119 -   Downloading: S2A_MSIL2A_20220616T103631_N0510_R008_T31TGK_20240628T1 (256 MB)
+2026-04-29 07:00:22.390 | SUCCESS  | __main__:download_scene:129 -   Done: S2A_MSIL2A_20220616T103631_N0510_R008_T31TGK_20240628T163751
+2026-04-29 07:00:24.393 | INFO     | __main__:main:179 - [14/96] 2022 Summer Tile 31TGJ
+2026-04-29 07:00:25.867 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20220616T103631_N0510_R008_T31TGJ_20240628T1
+2026-04-29 07:00:28.324 | INFO     | __main__:download_scene:119 -   Downloading: S2A_MSIL2A_20220616T103631_N0510_R008_T31TGJ_20240628T1 (41 MB)
+2026-04-29 07:00:34.461 | SUCCESS  | __main__:download_scene:129 -   Done: S2A_MSIL2A_20220616T103631_N0510_R008_T31TGJ_20240628T163751
+2026-04-29 07:00:36.464 | INFO     | __main__:main:179 - [15/96] 2022 Summer Tile 31TGL
+2026-04-29 07:00:37.713 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20220618T102559_N0510_R108_T31TGL_20240628T1
+2026-04-29 07:00:39.690 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20220618T102559_N0510_R108_T31TGL_20240628T1 (1192 MB)
+2026-04-29 07:07:14.310 | SUCCESS  | __main__:download_scene:129 -   Done: S2B_MSIL2A_20220618T102559_N0510_R108_T31TGL_20240628T132802
+2026-04-29 07:07:16.313 | INFO     | __main__:main:179 - [16/96] 2022 Summer Tile 32TMP
+2026-04-29 07:07:17.802 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20220620T102041_N0510_R065_T32TMP_20240628T0
+2026-04-29 07:07:19.131 | ERROR    | __main__:download_scene:132 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(697f3fb8-724f-42d0-9c5d-318d8ab09664)/$value
+2026-04-29 07:07:21.132 | INFO     | __main__:main:179 - [17/96] 2022 Summer Tile 32TMQ
+2026-04-29 07:07:22.287 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20220618T102559_N0510_R108_T32TMQ_20240628T1
+2026-04-29 07:07:23.307 | ERROR    | __main__:download_scene:132 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(3186c501-eaf5-4745-a862-68e89360d1b5)/$value
+2026-04-29 07:07:25.308 | INFO     | __main__:main:179 - [18/96] 2022 Summer Tile 33TUG
+2026-04-29 07:07:26.510 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20220616T095039_N0510_R079_T33TUG_20240701T0
+2026-04-29 07:07:27.614 | ERROR    | __main__:download_scene:132 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(39a933fc-0ec3-4b6d-b36b-ecdbc8f68711)/$value
+2026-04-29 07:07:29.615 | INFO     | __main__:main:179 - [19/96] 2022 Autumn Tile 31TGK
+2026-04-29 07:07:31.531 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20220919T103639_N0510_R008_T31TGK_20240727T0
+2026-04-29 07:07:32.566 | ERROR    | __main__:download_scene:132 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(bdf92357-2dbd-4e31-bd1d-da2f8579d255)/$value
+2026-04-29 07:07:34.568 | INFO     | __main__:main:179 - [20/96] 2022 Autumn Tile 31TGJ
+2026-04-29 07:07:36.025 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20220916T102639_N0510_R108_T31TGJ_20240727T0
+2026-04-29 07:07:37.111 | ERROR    | __main__:download_scene:132 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(8b0a5b58-8b26-42cf-93c3-c8cbf210c033)/$value
+2026-04-29 07:07:39.112 | INFO     | __main__:main:179 - [21/96] 2022 Autumn Tile 31TGL
+2026-04-29 07:07:40.276 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20220919T103639_N0510_R008_T31TGL_20240727T0
+2026-04-29 07:07:41.338 | ERROR    | __main__:download_scene:132 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(506c3c82-6853-465c-b777-047db4422216)/$value
+2026-04-29 07:07:43.339 | INFO     | __main__:main:179 - [22/96] 2022 Autumn Tile 32TMP
+2026-04-29 07:07:44.514 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20220918T101701_N0510_R065_T32TMP_20240730T0
+2026-04-29 07:07:45.552 | ERROR    | __main__:download_scene:132 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(7871024b-ee25-4ce6-955c-2a2c6bb55141)/$value
+2026-04-29 07:07:47.554 | INFO     | __main__:main:179 - [23/96] 2022 Autumn Tile 32TMQ
+2026-04-29 07:07:48.812 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20220916T102639_N0510_R108_T32TMQ_20240727T0
+2026-04-29 07:07:49.917 | ERROR    | __main__:download_scene:132 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(dc1aaf5a-0ab2-42af-a216-3dbdf1d04d9c)/$value
+2026-04-29 07:07:51.919 | INFO     | __main__:main:179 - [24/96] 2022 Autumn Tile 33TUG
+2026-04-29 07:07:53.119 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20220919T095041_N0510_R079_T33TUG_20240729T0
+2026-04-29 07:07:54.200 | ERROR    | __main__:download_scene:132 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(393ce7fb-f6b1-48c6-adb8-01fdfe5afb18)/$value
+2026-04-29 07:07:56.202 | INFO     | __main__:main:179 - [25/96] 2023 Winter Tile 31TGK
+2026-04-29 07:07:57.397 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20230104T103329_N0510_R108_T31TGK_20240809T0
+2026-04-29 07:07:58.467 | ERROR    | __main__:download_scene:132 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(6412026c-97eb-452f-9874-ca8c6721f118)/$value
+2026-04-29 07:08:00.469 | INFO     | __main__:main:179 - [26/96] 2023 Winter Tile 31TGJ
+2026-04-29 07:08:01.700 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20230104T103329_N0510_R108_T31TGJ_20240809T0
+2026-04-29 07:08:02.781 | ERROR    | __main__:download_scene:132 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(ddfa89e7-516e-4619-b6ba-0eab65dbe02d)/$value
+2026-04-29 07:08:04.784 | INFO     | __main__:main:179 - [27/96] 2023 Winter Tile 31TGL
+2026-04-29 07:08:06.036 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20230201T104251_N0510_R008_T31TGL_20240815T1
+2026-04-29 07:08:07.068 | ERROR    | __main__:download_scene:132 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(480aa8a5-436f-4454-86fe-1670e5bfc42f)/$value
+2026-04-29 07:08:09.070 | INFO     | __main__:main:179 - [28/96] 2023 Winter Tile 32TMP
+2026-04-29 07:08:10.497 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20230109T103421_N0510_R108_T32TMP_20240810T1
+2026-04-29 07:08:11.592 | ERROR    | __main__:download_scene:132 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(a2cf506b-af75-44da-9423-e776be327049)/$value
+2026-04-29 07:08:13.594 | INFO     | __main__:main:179 - [29/96] 2023 Winter Tile 32TMQ
+2026-04-29 07:08:14.923 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20230129T103301_N0510_R108_T32TMQ_20240811T0
+2026-04-29 07:08:15.984 | ERROR    | __main__:download_scene:132 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(942c5325-6cbd-41fc-99a7-40acbd78526d)/$value
+2026-04-29 07:08:17.986 | INFO     | __main__:main:179 - [30/96] 2023 Winter Tile 33TUG
+2026-04-29 07:08:17.987 | INFO     | __main__:main:186 - Refreshing token...
+2026-04-29 07:08:19.516 | INFO     | __main__:get_token:47 - Token obtained successfully
+2026-04-29 07:08:20.847 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20230102T095319_N0510_R079_T33TUG_20240810T0
+2026-04-29 07:08:22.596 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20230102T095319_N0510_R079_T33TUG_20240810T0 (248 MB)
+2026-04-29 07:09:16.261 | SUCCESS  | __main__:download_scene:129 -   Done: S2B_MSIL2A_20230102T095319_N0510_R079_T33TUG_20240810T082750
+2026-04-29 07:09:18.265 | INFO     | __main__:main:179 - [31/96] 2023 Spring Tile 31TGK
+2026-04-29 07:09:19.464 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20230328T103639_N0510_R008_T31TGK_20240829T1
+2026-04-29 07:09:21.141 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20230328T103639_N0510_R008_T31TGK_20240829T1 (265 MB)
+2026-04-29 07:09:51.818 | SUCCESS  | __main__:download_scene:129 -   Done: S2B_MSIL2A_20230328T103639_N0510_R008_T31TGK_20240829T163812
+2026-04-29 07:09:53.825 | INFO     | __main__:main:179 - [32/96] 2023 Spring Tile 31TGJ
+2026-04-29 07:09:55.011 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20230322T101649_N0510_R065_T31TGJ_20240827T1
+2026-04-29 07:09:56.776 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20230322T101649_N0510_R065_T31TGJ_20240827T1 (178 MB)
+2026-04-29 07:10:20.269 | SUCCESS  | __main__:download_scene:129 -   Done: S2B_MSIL2A_20230322T101649_N0510_R065_T31TGJ_20240827T150923
+2026-04-29 07:10:22.272 | INFO     | __main__:main:179 - [33/96] 2023 Spring Tile 31TGL
+2026-04-29 07:10:23.511 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20230419T102601_N0510_R108_T31TGL_20240831T1
+2026-04-29 07:10:27.151 | INFO     | __main__:download_scene:119 -   Downloading: S2A_MSIL2A_20230419T102601_N0510_R108_T31TGL_20240831T1 (1206 MB)
+2026-04-29 07:21:41.169 | INFO     | __main__:main:146 - ============================================================
+2026-04-29 07:21:41.169 | INFO     | __main__:main:147 - Phase 1 - Sentinel-2 SMART Seasonal Download
+2026-04-29 07:21:41.170 | INFO     | __main__:main:148 - Region:  R3 Western Mediterranean
+2026-04-29 07:21:41.170 | INFO     | __main__:main:149 - Tiles:   ['31TGK', '31TGJ', '31TGL', '32TMP', '32TMQ', '33TUG']
+2026-04-29 07:21:41.170 | INFO     | __main__:main:150 - Years:   [2022, 2023, 2024, 2025]
+2026-04-29 07:21:41.170 | INFO     | __main__:main:151 - Seasons: ['Winter', 'Spring', 'Summer', 'Autumn']
+2026-04-29 07:21:41.171 | INFO     | __main__:main:152 - Target:  ~96 scenes
+2026-04-29 07:21:41.171 | INFO     | __main__:main:153 - Output:  C:\Users\Apple\deep_sea_pulse\outputs\sentinel2\R3
+2026-04-29 07:21:41.171 | INFO     | __main__:main:154 - ============================================================
+2026-04-29 07:21:42.454 | INFO     | __main__:get_token:47 - Token obtained successfully
+2026-04-29 07:21:42.458 | INFO     | __main__:main:172 - 
+Total slots to search: 96
+2026-04-29 07:21:42.462 | INFO     | __main__:main:173 - Starting search and download...
+
+2026-04-29 07:21:42.464 | INFO     | __main__:main:179 - [1/96] 2022 Winter Tile 31TGK
+2026-04-29 07:21:43.720 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20220114T103401_N0510_R108_T31TGK_20240429T2
+2026-04-29 07:21:43.722 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2A_MSIL2A_20220114T103401_N0510_R108_T31TGK_20240429T232315
+2026-04-29 07:21:45.729 | INFO     | __main__:main:179 - [2/96] 2022 Winter Tile 31TGJ
+2026-04-29 07:21:46.891 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20220106T102319_N0510_R065_T31TGJ_20240424T2
+2026-04-29 07:21:46.891 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2B_MSIL2A_20220106T102319_N0510_R065_T31TGJ_20240424T224321
+2026-04-29 07:21:48.895 | INFO     | __main__:main:179 - [3/96] 2022 Winter Tile 31TGL
+2026-04-29 07:21:50.044 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20220114T103401_N0510_R108_T31TGL_20240429T2
+2026-04-29 07:21:50.046 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2A_MSIL2A_20220114T103401_N0510_R108_T31TGL_20240429T232315
+2026-04-29 07:21:52.055 | INFO     | __main__:main:179 - [4/96] 2022 Winter Tile 32TMP
+2026-04-29 07:21:53.315 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20220109T103319_N0510_R108_T32TMP_20240426T1
+2026-04-29 07:21:53.317 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2B_MSIL2A_20220109T103319_N0510_R108_T32TMP_20240426T172724
+2026-04-29 07:21:55.324 | INFO     | __main__:main:179 - [5/96] 2022 Winter Tile 32TMQ
+2026-04-29 07:21:56.890 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20220109T103319_N0510_R108_T32TMQ_20240426T1
+2026-04-29 07:21:56.890 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2B_MSIL2A_20220109T103319_N0510_R108_T32TMQ_20240426T172724
+2026-04-29 07:21:58.898 | INFO     | __main__:main:179 - [6/96] 2022 Winter Tile 33TUG
+2026-04-29 07:22:00.080 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20220115T100351_N0500_R122_T33TUG_20230205T1
+2026-04-29 07:22:00.081 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2A_MSIL2A_20220115T100351_N0500_R122_T33TUG_20230205T191237
+2026-04-29 07:22:02.088 | INFO     | __main__:main:179 - [7/96] 2022 Spring Tile 31TGK
+2026-04-29 07:22:03.322 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20220323T103639_N0510_R008_T31TGK_20240525T1
+2026-04-29 07:22:03.323 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2B_MSIL2A_20220323T103639_N0510_R008_T31TGK_20240525T162111
+2026-04-29 07:22:05.328 | INFO     | __main__:main:179 - [8/96] 2022 Spring Tile 31TGJ
+2026-04-29 07:22:06.820 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20220322T101711_N0510_R065_T31TGJ_20240526T0
+2026-04-29 07:22:07.425 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2A_MSIL2A_20220322T101711_N0510_R065_T31TGJ_20240526T094620
+2026-04-29 07:22:09.542 | INFO     | __main__:main:179 - [9/96] 2022 Spring Tile 31TGL
+2026-04-29 07:22:15.543 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20220323T103639_N0510_R008_T31TGL_20240525T1
+2026-04-29 07:22:17.366 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20220323T103639_N0510_R008_T31TGL_20240525T1 (61 MB)
+2026-04-29 07:22:49.765 | SUCCESS  | __main__:download_scene:129 -   Done: S2B_MSIL2A_20220323T103639_N0510_R008_T31TGL_20240525T162111
+2026-04-29 07:22:51.769 | INFO     | __main__:main:179 - [10/96] 2022 Spring Tile 32TMP
+2026-04-29 07:22:51.769 | INFO     | __main__:main:186 - Refreshing token...
+2026-04-29 07:22:52.984 | INFO     | __main__:get_token:47 - Token obtained successfully
+2026-04-29 07:22:54.131 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20220322T101711_N0510_R065_T32TMP_20240526T0
+2026-04-29 07:22:54.132 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2A_MSIL2A_20220322T101711_N0510_R065_T32TMP_20240526T094620
+2026-04-29 07:22:56.136 | INFO     | __main__:main:179 - [11/96] 2022 Spring Tile 32TMQ
+2026-04-29 07:22:57.592 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20220320T102639_N0510_R108_T32TMQ_20240525T2
+2026-04-29 07:22:57.593 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2B_MSIL2A_20220320T102639_N0510_R108_T32TMQ_20240525T215800
+2026-04-29 07:22:59.597 | INFO     | __main__:main:179 - [12/96] 2022 Spring Tile 33TUG
+2026-04-29 07:23:01.055 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20220321T100029_N0510_R122_T33TUG_20240523T1
+2026-04-29 07:23:01.057 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2B_MSIL2A_20220321T100029_N0510_R122_T33TUG_20240523T141544
+2026-04-29 07:23:03.066 | INFO     | __main__:main:179 - [13/96] 2022 Summer Tile 31TGK
+2026-04-29 07:23:04.751 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20220616T103631_N0510_R008_T31TGK_20240628T1
+2026-04-29 07:23:04.753 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2A_MSIL2A_20220616T103631_N0510_R008_T31TGK_20240628T163751
+2026-04-29 07:23:06.760 | INFO     | __main__:main:179 - [14/96] 2022 Summer Tile 31TGJ
+2026-04-29 07:23:09.381 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20220616T103631_N0510_R008_T31TGJ_20240628T1
+2026-04-29 07:23:09.382 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2A_MSIL2A_20220616T103631_N0510_R008_T31TGJ_20240628T163751
+2026-04-29 07:23:11.387 | INFO     | __main__:main:179 - [15/96] 2022 Summer Tile 31TGL
+2026-04-29 07:23:12.712 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20220618T102559_N0510_R108_T31TGL_20240628T1
+2026-04-29 07:23:12.714 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2B_MSIL2A_20220618T102559_N0510_R108_T31TGL_20240628T132802
+2026-04-29 07:23:14.722 | INFO     | __main__:main:179 - [16/96] 2022 Summer Tile 32TMP
+2026-04-29 07:23:16.111 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20220620T102041_N0510_R065_T32TMP_20240628T0
+2026-04-29 07:23:18.057 | INFO     | __main__:download_scene:119 -   Downloading: S2A_MSIL2A_20220620T102041_N0510_R065_T32TMP_20240628T0 (934 MB)
+2026-04-29 07:25:55.861 | SUCCESS  | __main__:download_scene:129 -   Done: S2A_MSIL2A_20220620T102041_N0510_R065_T32TMP_20240628T034130
+2026-04-29 07:25:57.864 | INFO     | __main__:main:179 - [17/96] 2022 Summer Tile 32TMQ
+2026-04-29 07:25:59.030 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20220618T102559_N0510_R108_T32TMQ_20240628T1
+2026-04-29 07:26:00.912 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20220618T102559_N0510_R108_T32TMQ_20240628T1 (540 MB)
+2026-04-29 07:29:41.274 | ERROR    | __main__:download_scene:132 -   Failed: ('Connection broken: IncompleteRead(375444638 bytes read, 190750898 more expected)', IncompleteRead(375444638 bytes read, 190750898 more expected))
+2026-04-29 07:29:43.306 | INFO     | __main__:main:179 - [18/96] 2022 Summer Tile 33TUG
+2026-04-29 07:29:44.850 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20220616T095039_N0510_R079_T33TUG_20240701T0
+2026-04-29 07:29:46.914 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20220616T095039_N0510_R079_T33TUG_20240701T0 (266 MB)
+2026-04-29 07:31:09.131 | SUCCESS  | __main__:download_scene:129 -   Done: S2B_MSIL2A_20220616T095039_N0510_R079_T33TUG_20240701T005431
+2026-04-29 07:31:11.136 | INFO     | __main__:main:179 - [19/96] 2022 Autumn Tile 31TGK
+2026-04-29 07:31:12.491 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20220919T103639_N0510_R008_T31TGK_20240727T0
+2026-04-29 07:31:14.410 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20220919T103639_N0510_R008_T31TGK_20240727T0 (259 MB)
+2026-04-29 07:33:30.678 | SUCCESS  | __main__:download_scene:129 -   Done: S2B_MSIL2A_20220919T103639_N0510_R008_T31TGK_20240727T030649
+2026-04-29 07:33:32.681 | INFO     | __main__:main:179 - [20/96] 2022 Autumn Tile 31TGJ
+2026-04-29 07:33:32.681 | INFO     | __main__:main:186 - Refreshing token...
+2026-04-29 07:33:33.968 | INFO     | __main__:get_token:47 - Token obtained successfully
+2026-04-29 07:33:35.230 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20220916T102639_N0510_R108_T31TGJ_20240727T0
+2026-04-29 07:33:37.186 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20220916T102639_N0510_R108_T31TGJ_20240727T0 (1168 MB)
+2026-04-29 07:38:00.348 | SUCCESS  | __main__:download_scene:129 -   Done: S2B_MSIL2A_20220916T102639_N0510_R108_T31TGJ_20240727T091731
+2026-04-29 07:38:02.351 | INFO     | __main__:main:179 - [21/96] 2022 Autumn Tile 31TGL
+2026-04-29 07:38:03.560 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20220919T103639_N0510_R008_T31TGL_20240727T0
+2026-04-29 07:38:05.477 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20220919T103639_N0510_R008_T31TGL_20240727T0 (554 MB)
+2026-04-29 07:40:50.867 | SUCCESS  | __main__:download_scene:129 -   Done: S2B_MSIL2A_20220919T103639_N0510_R008_T31TGL_20240727T030649
+2026-04-29 07:40:52.870 | INFO     | __main__:main:179 - [22/96] 2022 Autumn Tile 32TMP
+2026-04-29 07:40:54.743 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20220918T101701_N0510_R065_T32TMP_20240730T0
+2026-04-29 07:40:56.602 | INFO     | __main__:download_scene:119 -   Downloading: S2A_MSIL2A_20220918T101701_N0510_R065_T32TMP_20240730T0 (784 MB)
+2026-04-29 07:43:07.401 | SUCCESS  | __main__:download_scene:129 -   Done: S2A_MSIL2A_20220918T101701_N0510_R065_T32TMP_20240730T065346
+2026-04-29 07:43:09.405 | INFO     | __main__:main:179 - [23/96] 2022 Autumn Tile 32TMQ
+2026-04-29 07:43:10.604 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20220916T102639_N0510_R108_T32TMQ_20240727T0
+2026-04-29 07:43:12.511 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20220916T102639_N0510_R108_T32TMQ_20240727T0 (565 MB)
+2026-04-29 07:44:42.932 | ERROR    | __main__:download_scene:132 -   Failed: ('Connection broken: IncompleteRead(137690320 bytes read, 454564981 more expected)', IncompleteRead(137690320 bytes read, 454564981 more expected))
+2026-04-29 07:44:44.958 | INFO     | __main__:main:179 - [24/96] 2022 Autumn Tile 33TUG
+2026-04-29 07:44:46.338 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20220919T095041_N0510_R079_T33TUG_20240729T0
+2026-04-29 07:44:48.216 | INFO     | __main__:download_scene:119 -   Downloading: S2A_MSIL2A_20220919T095041_N0510_R079_T33TUG_20240729T0 (277 MB)
+2026-04-29 07:51:19.798 | ERROR    | __main__:download_scene:132 -   Failed: ('Connection broken: IncompleteRead(130795366 bytes read, 159902739 more expected)', IncompleteRead(130795366 bytes read, 159902739 more expected))
+2026-04-29 07:51:21.811 | INFO     | __main__:main:179 - [25/96] 2023 Winter Tile 31TGK
+2026-04-29 07:51:23.050 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20230104T103329_N0510_R108_T31TGK_20240809T0
+2026-04-29 07:51:24.920 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20230104T103329_N0510_R108_T31TGK_20240809T0 (1172 MB)
+2026-04-29 08:00:33.293 | ERROR    | __main__:download_scene:132 -   Failed: ('Connection broken: IncompleteRead(266879802 bytes read, 961587397 more expected)', IncompleteRead(266879802 bytes read, 961587397 more expected))
+2026-04-29 08:00:35.328 | INFO     | __main__:main:179 - [26/96] 2023 Winter Tile 31TGJ
+2026-04-29 08:00:36.559 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20230104T103329_N0510_R108_T31TGJ_20240809T0
+2026-04-29 08:00:38.512 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20230104T103329_N0510_R108_T31TGJ_20240809T0 (1141 MB)
+2026-04-29 08:07:08.048 | ERROR    | __main__:download_scene:132 -   Failed: ('Connection broken: IncompleteRead(616007482 bytes read, 580585688 more expected)', IncompleteRead(616007482 bytes read, 580585688 more expected))
+2026-04-29 08:07:10.103 | INFO     | __main__:main:179 - [27/96] 2023 Winter Tile 31TGL
+2026-04-29 08:07:11.545 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20230201T104251_N0510_R008_T31TGL_20240815T1
+2026-04-29 08:07:12.880 | ERROR    | __main__:download_scene:132 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(480aa8a5-436f-4454-86fe-1670e5bfc42f)/$value
+2026-04-29 08:07:14.882 | INFO     | __main__:main:179 - [28/96] 2023 Winter Tile 32TMP
+2026-04-29 08:07:16.346 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20230109T103421_N0510_R108_T32TMP_20240810T1
+2026-04-29 08:07:17.620 | ERROR    | __main__:download_scene:132 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(a2cf506b-af75-44da-9423-e776be327049)/$value
+2026-04-29 08:07:19.622 | INFO     | __main__:main:179 - [29/96] 2023 Winter Tile 32TMQ
+2026-04-29 08:07:20.888 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20230129T103301_N0510_R108_T32TMQ_20240811T0
+2026-04-29 08:07:21.961 | ERROR    | __main__:download_scene:132 -   Failed: 401 Client Error: Unauthorized for url: https://zipper.dataspace.copernicus.eu/odata/v1/Products(942c5325-6cbd-41fc-99a7-40acbd78526d)/$value
+2026-04-29 08:07:23.964 | INFO     | __main__:main:179 - [30/96] 2023 Winter Tile 33TUG
+2026-04-29 08:07:23.965 | INFO     | __main__:main:186 - Refreshing token...
+2026-04-29 08:07:25.296 | INFO     | __main__:get_token:47 - Token obtained successfully
+2026-04-29 08:07:26.607 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20230102T095319_N0510_R079_T33TUG_20240810T0
+2026-04-29 08:07:26.608 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2B_MSIL2A_20230102T095319_N0510_R079_T33TUG_20240810T082750
+2026-04-29 08:07:28.612 | INFO     | __main__:main:179 - [31/96] 2023 Spring Tile 31TGK
+2026-04-29 08:07:29.817 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20230328T103639_N0510_R008_T31TGK_20240829T1
+2026-04-29 08:07:29.818 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2B_MSIL2A_20230328T103639_N0510_R008_T31TGK_20240829T163812
+2026-04-29 08:07:31.824 | INFO     | __main__:main:179 - [32/96] 2023 Spring Tile 31TGJ
+2026-04-29 08:07:33.035 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20230322T101649_N0510_R065_T31TGJ_20240827T1
+2026-04-29 08:07:33.037 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2B_MSIL2A_20230322T101649_N0510_R065_T31TGJ_20240827T150923
+2026-04-29 08:07:35.051 | INFO     | __main__:main:179 - [33/96] 2023 Spring Tile 31TGL
+2026-04-29 08:07:36.493 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20230419T102601_N0510_R108_T31TGL_20240831T1
+2026-04-29 08:07:36.494 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2A_MSIL2A_20230419T102601_N0510_R108_T31TGL_20240831T102559
+2026-04-29 08:07:38.506 | INFO     | __main__:main:179 - [34/96] 2023 Spring Tile 32TMP
+2026-04-29 08:07:40.728 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20230322T101649_N0510_R065_T32TMP_20240827T1
+2026-04-29 08:07:42.568 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20230322T101649_N0510_R065_T32TMP_20240827T1 (866 MB)
+2026-04-29 08:09:48.714 | SUCCESS  | __main__:download_scene:129 -   Done: S2B_MSIL2A_20230322T101649_N0510_R065_T32TMP_20240827T150923
+2026-04-29 08:09:50.717 | INFO     | __main__:main:179 - [35/96] 2023 Spring Tile 32TMQ
+2026-04-29 08:09:51.919 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20230320T102731_N0510_R108_T32TMQ_20240826T0
+2026-04-29 08:09:53.774 | INFO     | __main__:download_scene:119 -   Downloading: S2A_MSIL2A_20230320T102731_N0510_R108_T32TMQ_20240826T0 (558 MB)
+2026-04-29 08:10:56.730 | SUCCESS  | __main__:download_scene:129 -   Done: S2A_MSIL2A_20230320T102731_N0510_R108_T32TMQ_20240826T022705
+2026-04-29 08:10:58.734 | INFO     | __main__:main:179 - [36/96] 2023 Spring Tile 33TUG
+2026-04-29 08:11:00.008 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20230316T100029_N0510_R122_T33TUG_20240827T1
+2026-04-29 08:11:02.684 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20230316T100029_N0510_R122_T33TUG_20240827T1 (1165 MB)
+2026-04-29 08:13:52.036 | SUCCESS  | __main__:download_scene:129 -   Done: S2B_MSIL2A_20230316T100029_N0510_R122_T33TUG_20240827T115615
+2026-04-29 08:13:54.039 | INFO     | __main__:main:179 - [37/96] 2023 Summer Tile 31TGK
+2026-04-29 08:13:56.428 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20230616T103629_N0510_R008_T31TGK_20240926T1
+2026-04-29 08:13:58.189 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20230616T103629_N0510_R008_T31TGK_20240926T1 (255 MB)
+2026-04-29 08:14:49.202 | SUCCESS  | __main__:download_scene:129 -   Done: S2B_MSIL2A_20230616T103629_N0510_R008_T31TGK_20240926T110153
+2026-04-29 08:14:51.209 | INFO     | __main__:main:179 - [38/96] 2023 Summer Tile 31TGJ
+2026-04-29 08:14:52.487 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20230616T103629_N0510_R008_T31TGJ_20240926T1
+2026-04-29 08:14:54.423 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20230616T103629_N0510_R008_T31TGJ_20240926T1 (41 MB)
+2026-04-29 08:15:39.373 | SUCCESS  | __main__:download_scene:129 -   Done: S2B_MSIL2A_20230616T103629_N0510_R008_T31TGJ_20240926T110153
+2026-04-29 08:15:41.377 | INFO     | __main__:main:179 - [39/96] 2023 Summer Tile 31TGL
+2026-04-29 08:15:42.569 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20230616T103629_N0510_R008_T31TGL_20240926T1
+2026-04-29 08:15:44.437 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20230616T103629_N0510_R008_T31TGL_20240926T1 (551 MB)
+2026-04-29 08:16:47.332 | SUCCESS  | __main__:download_scene:129 -   Done: S2B_MSIL2A_20230616T103629_N0510_R008_T31TGL_20240926T110153
+2026-04-29 08:16:49.335 | INFO     | __main__:main:179 - [40/96] 2023 Summer Tile 32TMP
+2026-04-29 08:16:49.335 | INFO     | __main__:main:186 - Refreshing token...
+2026-04-29 08:16:50.663 | INFO     | __main__:get_token:47 - Token obtained successfully
+2026-04-29 08:16:51.858 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20230615T102031_N0510_R065_T32TMP_20240912T0
+2026-04-29 08:16:54.329 | INFO     | __main__:download_scene:119 -   Downloading: S2A_MSIL2A_20230615T102031_N0510_R065_T32TMP_20240912T0 (935 MB)
+2026-04-29 08:20:28.328 | SUCCESS  | __main__:download_scene:129 -   Done: S2A_MSIL2A_20230615T102031_N0510_R065_T32TMP_20240912T065622
+2026-04-29 08:20:30.332 | INFO     | __main__:main:179 - [41/96] 2023 Summer Tile 32TMQ
+2026-04-29 08:20:32.472 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20230623T102559_N0510_R108_T32TMQ_20240909T0
+2026-04-29 08:20:34.290 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20230623T102559_N0510_R108_T32TMQ_20240909T0 (557 MB)
+2026-04-29 08:22:35.449 | SUCCESS  | __main__:download_scene:129 -   Done: S2B_MSIL2A_20230623T102559_N0510_R108_T32TMQ_20240909T013344
+2026-04-29 08:22:37.452 | INFO     | __main__:main:179 - [42/96] 2023 Summer Tile 33TUG
+2026-04-29 08:22:39.758 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20230621T094549_N0510_R079_T33TUG_20241120T2
+2026-04-29 08:22:41.644 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20230621T094549_N0510_R079_T33TUG_20241120T2 (260 MB)
+2026-04-29 08:23:18.048 | SUCCESS  | __main__:download_scene:129 -   Done: S2B_MSIL2A_20230621T094549_N0510_R079_T33TUG_20241120T230517
+2026-04-29 08:23:20.052 | INFO     | __main__:main:179 - [43/96] 2023 Autumn Tile 31TGK
+2026-04-29 08:23:22.509 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20230924T103659_N0510_R008_T31TGK_20241025T1
+2026-04-29 08:23:24.324 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20230924T103659_N0510_R008_T31TGK_20241025T1 (256 MB)
+2026-04-29 08:23:58.674 | SUCCESS  | __main__:download_scene:129 -   Done: S2B_MSIL2A_20230924T103659_N0510_R008_T31TGK_20241025T153729
+2026-04-29 08:24:00.678 | INFO     | __main__:main:179 - [44/96] 2023 Autumn Tile 31TGJ
+2026-04-29 08:24:01.932 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20230919T103721_N0510_R008_T31TGJ_20241105T1
+2026-04-29 08:24:03.974 | INFO     | __main__:download_scene:119 -   Downloading: S2A_MSIL2A_20230919T103721_N0510_R008_T31TGJ_20241105T1 (31 MB)
+2026-04-29 08:24:08.853 | SUCCESS  | __main__:download_scene:129 -   Done: S2A_MSIL2A_20230919T103721_N0510_R008_T31TGJ_20241105T191503
+2026-04-29 08:24:10.857 | INFO     | __main__:main:179 - [45/96] 2023 Autumn Tile 31TGL
+2026-04-29 08:24:12.634 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20230924T103659_N0510_R008_T31TGL_20241101T0
+2026-04-29 08:24:14.595 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20230924T103659_N0510_R008_T31TGL_20241101T0 (375 MB)
+2026-04-29 08:24:58.713 | SUCCESS  | __main__:download_scene:129 -   Done: S2B_MSIL2A_20230924T103659_N0510_R008_T31TGL_20241101T040059
+2026-04-29 08:25:00.716 | INFO     | __main__:main:179 - [46/96] 2023 Autumn Tile 32TMP
+2026-04-29 08:25:01.984 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20230926T102801_N0510_R108_T32TMP_20241027T0
+2026-04-29 08:25:03.834 | INFO     | __main__:download_scene:119 -   Downloading: S2A_MSIL2A_20230926T102801_N0510_R108_T32TMP_20241027T0 (174 MB)
+2026-04-29 08:25:53.929 | SUCCESS  | __main__:download_scene:129 -   Done: S2A_MSIL2A_20230926T102801_N0510_R108_T32TMP_20241027T055635
+2026-04-29 08:25:55.933 | INFO     | __main__:main:179 - [47/96] 2023 Autumn Tile 32TMQ
+2026-04-29 08:25:57.183 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20230926T102801_N0510_R108_T32TMQ_20241027T0
+2026-04-29 08:25:58.903 | INFO     | __main__:download_scene:119 -   Downloading: S2A_MSIL2A_20230926T102801_N0510_R108_T32TMQ_20241027T0 (565 MB)
+2026-04-29 08:27:10.561 | SUCCESS  | __main__:download_scene:129 -   Done: S2A_MSIL2A_20230926T102801_N0510_R108_T32TMQ_20241027T055635
+2026-04-29 08:27:12.565 | INFO     | __main__:main:179 - [48/96] 2023 Autumn Tile 33TUG
+2026-04-29 08:27:14.070 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20230927T100031_N0510_R122_T33TUG_20241101T1
+2026-04-29 08:27:15.873 | INFO     | __main__:download_scene:119 -   Downloading: S2A_MSIL2A_20230927T100031_N0510_R122_T33TUG_20241101T1 (1170 MB)
+2026-04-29 08:29:29.051 | SUCCESS  | __main__:download_scene:129 -   Done: S2A_MSIL2A_20230927T100031_N0510_R122_T33TUG_20241101T152850
+2026-04-29 08:29:31.054 | INFO     | __main__:main:179 - [49/96] 2024 Winter Tile 31TGK
+2026-04-29 08:29:32.333 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20240104T103431_N0510_R108_T31TGK_20240104T1
+2026-04-29 08:29:34.098 | INFO     | __main__:download_scene:119 -   Downloading: S2A_MSIL2A_20240104T103431_N0510_R108_T31TGK_20240104T1 (1183 MB)
+2026-04-29 08:32:52.307 | ERROR    | __main__:download_scene:132 -   Failed: ('Connection broken: IncompleteRead(284807378 bytes read, 955407071 more expected)', IncompleteRead(284807378 bytes read, 955407071 more expected))
+2026-04-29 08:32:54.337 | INFO     | __main__:main:179 - [50/96] 2024 Winter Tile 31TGJ
+2026-04-29 08:32:54.338 | INFO     | __main__:main:186 - Refreshing token...
+2026-04-29 08:32:55.793 | INFO     | __main__:get_token:47 - Token obtained successfully
+2026-04-29 08:32:57.351 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20240104T103431_N0510_R108_T31TGJ_20240104T1
+2026-04-29 08:32:59.455 | INFO     | __main__:download_scene:119 -   Downloading: S2A_MSIL2A_20240104T103431_N0510_R108_T31TGJ_20240104T1 (1156 MB)
+2026-04-29 08:37:07.526 | SUCCESS  | __main__:download_scene:129 -   Done: S2A_MSIL2A_20240104T103431_N0510_R108_T31TGJ_20240104T144951
+2026-04-29 08:37:09.529 | INFO     | __main__:main:179 - [51/96] 2024 Winter Tile 31TGL
+2026-04-29 08:37:12.190 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20240203T103231_N0510_R108_T31TGL_20240203T1
+2026-04-29 08:37:14.239 | INFO     | __main__:download_scene:119 -   Downloading: S2A_MSIL2A_20240203T103231_N0510_R108_T31TGL_20240203T1 (1188 MB)
+2026-04-29 08:40:20.030 | SUCCESS  | __main__:download_scene:129 -   Done: S2A_MSIL2A_20240203T103231_N0510_R108_T31TGL_20240203T143851
+2026-04-29 08:40:22.033 | INFO     | __main__:main:179 - [52/96] 2024 Winter Tile 32TMP
+2026-04-29 08:40:23.298 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20240104T103431_N0510_R108_T32TMP_20240104T1
+2026-04-29 08:40:25.095 | INFO     | __main__:download_scene:119 -   Downloading: S2A_MSIL2A_20240104T103431_N0510_R108_T32TMP_20240104T1 (179 MB)
+2026-04-29 08:43:56.171 | SUCCESS  | __main__:download_scene:129 -   Done: S2A_MSIL2A_20240104T103431_N0510_R108_T32TMP_20240104T144951
+2026-04-29 08:43:58.174 | INFO     | __main__:main:179 - [53/96] 2024 Winter Tile 32TMQ
+2026-04-29 08:43:59.511 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20240104T103431_N0510_R108_T32TMQ_20240104T1
+2026-04-29 08:44:02.051 | INFO     | __main__:download_scene:119 -   Downloading: S2A_MSIL2A_20240104T103431_N0510_R108_T32TMQ_20240104T1 (561 MB)
+2026-04-29 08:45:07.131 | SUCCESS  | __main__:download_scene:129 -   Done: S2A_MSIL2A_20240104T103431_N0510_R108_T32TMQ_20240104T144951
+2026-04-29 08:45:09.133 | INFO     | __main__:main:179 - [54/96] 2024 Winter Tile 33TUG
+2026-04-29 08:45:11.536 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20240122T095311_N0510_R079_T33TUG_20240122T1
+2026-04-29 08:45:13.434 | INFO     | __main__:download_scene:119 -   Downloading: S2A_MSIL2A_20240122T095311_N0510_R079_T33TUG_20240122T1 (255 MB)
+2026-04-29 08:45:43.021 | SUCCESS  | __main__:download_scene:129 -   Done: S2A_MSIL2A_20240122T095311_N0510_R079_T33TUG_20240122T124949
+2026-04-29 08:45:45.023 | INFO     | __main__:main:179 - [55/96] 2024 Spring Tile 31TGK
+2026-04-29 08:45:46.624 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20240319T102639_N0510_R108_T31TGK_20240319T1
+2026-04-29 08:45:48.665 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20240319T102639_N0510_R108_T31TGK_20240319T1 (1203 MB)
+2026-04-29 08:50:35.633 | SUCCESS  | __main__:download_scene:129 -   Done: S2B_MSIL2A_20240319T102639_N0510_R108_T31TGK_20240319T131110
+2026-04-29 08:50:37.636 | INFO     | __main__:main:179 - [56/96] 2024 Spring Tile 31TGJ
+2026-04-29 08:50:38.889 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20240322T103639_N0510_R008_T31TGJ_20240322T1
+2026-04-29 08:50:40.708 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20240322T103639_N0510_R008_T31TGJ_20240322T1 (35 MB)
+2026-04-29 08:50:46.045 | SUCCESS  | __main__:download_scene:129 -   Done: S2B_MSIL2A_20240322T103639_N0510_R008_T31TGJ_20240322T134726
+2026-04-29 08:50:48.046 | INFO     | __main__:main:179 - [57/96] 2024 Spring Tile 31TGL
+2026-04-29 08:50:49.256 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20240319T102639_N0510_R108_T31TGL_20240319T1
+2026-04-29 08:50:51.088 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20240319T102639_N0510_R108_T31TGL_20240319T1 (1196 MB)
+2026-04-29 08:54:44.095 | SUCCESS  | __main__:download_scene:129 -   Done: S2B_MSIL2A_20240319T102639_N0510_R108_T31TGL_20240319T131110
+2026-04-29 08:54:46.098 | INFO     | __main__:main:179 - [58/96] 2024 Spring Tile 32TMP
+2026-04-29 08:54:47.340 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20240316T101649_N0510_R065_T32TMP_20240316T1
+2026-04-29 08:54:49.074 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20240316T101649_N0510_R065_T32TMP_20240316T1 (854 MB)
+2026-04-29 08:56:30.574 | SUCCESS  | __main__:download_scene:129 -   Done: S2B_MSIL2A_20240316T101649_N0510_R065_T32TMP_20240316T134307
+2026-04-29 08:56:32.578 | INFO     | __main__:main:179 - [59/96] 2024 Spring Tile 32TMQ
+2026-04-29 08:56:35.190 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20240316T101649_N0510_R065_T32TMQ_20240316T1
+2026-04-29 08:56:36.911 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20240316T101649_N0510_R065_T32TMQ_20240316T1 (1143 MB)
+2026-04-29 08:58:52.536 | SUCCESS  | __main__:download_scene:129 -   Done: S2B_MSIL2A_20240316T101649_N0510_R065_T32TMQ_20240316T134307
+2026-04-29 08:58:54.540 | INFO     | __main__:main:179 - [60/96] 2024 Spring Tile 33TUG
+2026-04-29 08:58:54.540 | INFO     | __main__:main:186 - Refreshing token...
+2026-04-29 08:58:55.903 | INFO     | __main__:get_token:47 - Token obtained successfully
+2026-04-29 08:58:57.111 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20240317T094649_N0510_R079_T33TUG_20240317T1
+2026-04-29 08:58:58.891 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20240317T094649_N0510_R079_T33TUG_20240317T1 (265 MB)
+2026-04-29 09:02:12.293 | SUCCESS  | __main__:download_scene:129 -   Done: S2B_MSIL2A_20240317T094649_N0510_R079_T33TUG_20240317T123310
+2026-04-29 09:02:14.301 | INFO     | __main__:main:179 - [61/96] 2024 Summer Tile 31TGK
+2026-04-29 09:02:15.507 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20240617T102559_N0510_R108_T31TGK_20240617T1
+2026-04-29 09:02:17.551 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20240617T102559_N0510_R108_T31TGK_20240617T1 (1186 MB)
+2026-04-29 09:06:44.995 | SUCCESS  | __main__:download_scene:129 -   Done: S2B_MSIL2A_20240617T102559_N0510_R108_T31TGK_20240617T134959
+2026-04-29 09:06:47.006 | INFO     | __main__:main:179 - [62/96] 2024 Summer Tile 31TGJ
+2026-04-29 09:06:48.820 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20240617T102559_N0510_R108_T31TGJ_20240617T1
+2026-04-29 09:06:52.491 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20240617T102559_N0510_R108_T31TGJ_20240617T1 (1166 MB)
+2026-04-29 09:09:29.298 | SUCCESS  | __main__:download_scene:129 -   Done: S2B_MSIL2A_20240617T102559_N0510_R108_T31TGJ_20240617T134959
+2026-04-29 09:09:31.302 | INFO     | __main__:main:179 - [63/96] 2024 Summer Tile 31TGL
+2026-04-29 09:09:32.623 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20240617T102559_N0510_R108_T31TGL_20240617T1
+2026-04-29 09:09:34.504 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20240617T102559_N0510_R108_T31TGL_20240617T1 (1195 MB)
+2026-04-29 09:13:18.790 | SUCCESS  | __main__:download_scene:129 -   Done: S2B_MSIL2A_20240617T102559_N0510_R108_T31TGL_20240617T134959
+2026-04-29 09:13:20.794 | INFO     | __main__:main:179 - [64/96] 2024 Summer Tile 32TMP
+2026-04-29 09:13:22.581 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20240704T101559_N0510_R065_T32TMP_20240704T1
+2026-04-29 09:13:24.432 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20240704T101559_N0510_R065_T32TMP_20240704T1 (950 MB)
+2026-04-29 09:15:14.281 | SUCCESS  | __main__:download_scene:129 -   Done: S2B_MSIL2A_20240704T101559_N0510_R065_T32TMP_20240704T130125
+2026-04-29 09:15:16.284 | INFO     | __main__:main:179 - [65/96] 2024 Summer Tile 32TMQ
+2026-04-29 09:15:18.095 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20240627T102559_N0510_R108_T32TMQ_20240627T1
+2026-04-29 09:15:22.037 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20240627T102559_N0510_R108_T32TMQ_20240627T1 (546 MB)
+2026-04-29 09:16:05.986 | ERROR    | __main__:download_scene:132 -   Failed: ('Connection broken: IncompleteRead(63067526 bytes read, 509238580 more expected)', IncompleteRead(63067526 bytes read, 509238580 more expected))
+2026-04-29 09:16:07.999 | INFO     | __main__:main:179 - [66/96] 2024 Summer Tile 33TUG
+2026-04-29 09:16:10.646 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20240615T094549_N0510_R079_T33TUG_20240615T1
+2026-04-29 09:16:12.687 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20240615T094549_N0510_R079_T33TUG_20240615T1 (269 MB)
+2026-04-29 09:16:52.727 | SUCCESS  | __main__:download_scene:129 -   Done: S2B_MSIL2A_20240615T094549_N0510_R079_T33TUG_20240615T114834
+2026-04-29 09:16:54.730 | INFO     | __main__:main:179 - [67/96] 2024 Autumn Tile 31TGK
+2026-04-29 09:16:56.335 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20240915T102559_N0511_R108_T31TGK_20240915T1
+2026-04-29 09:16:58.191 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20240915T102559_N0511_R108_T31TGK_20240915T1 (1170 MB)
+2026-04-29 09:20:27.543 | SUCCESS  | __main__:download_scene:129 -   Done: S2B_MSIL2A_20240915T102559_N0511_R108_T31TGK_20240915T131207
+2026-04-29 09:20:29.547 | INFO     | __main__:main:179 - [68/96] 2024 Autumn Tile 31TGJ
+2026-04-29 09:20:34.548 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20240915T102559_N0511_R108_T31TGJ_20240915T1
+2026-04-29 09:20:38.290 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20240915T102559_N0511_R108_T31TGJ_20240915T1 (1167 MB)
+2026-04-29 09:23:25.597 | SUCCESS  | __main__:download_scene:129 -   Done: S2B_MSIL2A_20240915T102559_N0511_R108_T31TGJ_20240915T131207
+2026-04-29 09:23:27.601 | INFO     | __main__:main:179 - [69/96] 2024 Autumn Tile 31TGL
+2026-04-29 09:23:29.172 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20240915T102559_N0511_R108_T31TGL_20240915T1
+2026-04-29 09:23:31.254 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20240915T102559_N0511_R108_T31TGL_20240915T1 (1172 MB)
+2026-04-29 09:26:03.770 | SUCCESS  | __main__:download_scene:129 -   Done: S2B_MSIL2A_20240915T102559_N0511_R108_T31TGL_20240915T131207
+2026-04-29 09:26:05.773 | INFO     | __main__:main:179 - [70/96] 2024 Autumn Tile 32TMP
+2026-04-29 09:26:05.773 | INFO     | __main__:main:186 - Refreshing token...
+2026-04-29 09:26:07.407 | INFO     | __main__:get_token:47 - Token obtained successfully
+2026-04-29 09:26:08.874 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20240915T102559_N0511_R108_T32TMP_20240915T1
+2026-04-29 09:26:10.992 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20240915T102559_N0511_R108_T32TMP_20240915T1 (178 MB)
+2026-04-29 09:26:34.278 | SUCCESS  | __main__:download_scene:129 -   Done: S2B_MSIL2A_20240915T102559_N0511_R108_T32TMP_20240915T131207
+2026-04-29 09:26:36.285 | INFO     | __main__:main:179 - [71/96] 2024 Autumn Tile 32TMQ
+2026-04-29 09:26:40.863 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20240915T102559_N0511_R108_T32TMQ_20240915T1
+2026-04-29 09:26:45.084 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20240915T102559_N0511_R108_T32TMQ_20240915T1 (554 MB)
+2026-04-29 09:36:54.261 | ERROR    | __main__:download_scene:132 -   Failed: ('Connection broken: IncompleteRead(181313290 bytes read, 399075187 more expected)', IncompleteRead(181313290 bytes read, 399075187 more expected))
+2026-04-29 09:36:56.329 | INFO     | __main__:main:179 - [72/96] 2024 Autumn Tile 33TUG
+2026-04-29 09:36:58.700 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20240921T100031_N0511_R122_T33TUG_20240921T1
+2026-04-29 09:37:00.760 | INFO     | __main__:download_scene:119 -   Downloading: S2A_MSIL2A_20240921T100031_N0511_R122_T33TUG_20240921T1 (1163 MB)
+2026-04-29 09:39:50.348 | ERROR    | __main__:download_scene:132 -   Failed: ('Connection broken: IncompleteRead(45489066 bytes read, 1173516571 more expected)', IncompleteRead(45489066 bytes read, 1173516571 more expected))
+2026-04-29 09:39:52.412 | INFO     | __main__:main:179 - [73/96] 2025 Winter Tile 31TGK
+2026-04-29 09:39:54.132 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20250101T104441_N0511_R008_T31TGK_20250101T1
+2026-04-29 09:39:56.212 | INFO     | __main__:download_scene:119 -   Downloading: S2A_MSIL2A_20250101T104441_N0511_R008_T31TGK_20250101T1 (289 MB)
+2026-04-29 09:40:32.387 | SUCCESS  | __main__:download_scene:129 -   Done: S2A_MSIL2A_20250101T104441_N0511_R008_T31TGK_20250101T163700
+2026-04-29 09:40:34.392 | INFO     | __main__:main:179 - [74/96] 2025 Winter Tile 31TGJ
+2026-04-29 09:40:37.471 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20250101T104441_N0511_R008_T31TGJ_20250101T1
+2026-04-29 09:40:39.404 | INFO     | __main__:download_scene:119 -   Downloading: S2A_MSIL2A_20250101T104441_N0511_R008_T31TGJ_20250101T1 (43 MB)
+2026-04-29 09:41:00.469 | SUCCESS  | __main__:download_scene:129 -   Done: S2A_MSIL2A_20250101T104441_N0511_R008_T31TGJ_20250101T163700
+2026-04-29 09:41:02.472 | INFO     | __main__:main:179 - [75/96] 2025 Winter Tile 31TGL
+2026-04-29 09:41:04.903 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20250101T104441_N0511_R008_T31TGL_20250101T1
+2026-04-29 09:41:06.771 | INFO     | __main__:download_scene:119 -   Downloading: S2A_MSIL2A_20250101T104441_N0511_R008_T31TGL_20250101T1 (594 MB)
+2026-04-29 09:42:14.618 | SUCCESS  | __main__:download_scene:129 -   Done: S2A_MSIL2A_20250101T104441_N0511_R008_T31TGL_20250101T163700
+2026-04-29 09:42:16.621 | INFO     | __main__:main:179 - [76/96] 2025 Winter Tile 32TMP
+2026-04-29 09:42:18.025 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20250108T103421_N0511_R108_T32TMP_20250108T1
+2026-04-29 09:42:19.780 | INFO     | __main__:download_scene:119 -   Downloading: S2A_MSIL2A_20250108T103421_N0511_R108_T32TMP_20250108T1 (192 MB)
+2026-04-29 09:42:45.927 | SUCCESS  | __main__:download_scene:129 -   Done: S2A_MSIL2A_20250108T103421_N0511_R108_T32TMP_20250108T144248
+2026-04-29 09:42:47.931 | INFO     | __main__:main:179 - [77/96] 2025 Winter Tile 32TMQ
+2026-04-29 09:42:49.198 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20250103T103339_N0511_R108_T32TMQ_20250103T1
+2026-04-29 09:42:50.998 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20250103T103339_N0511_R108_T32TMQ_20250103T1 (566 MB)
+2026-04-29 09:43:54.551 | SUCCESS  | __main__:download_scene:129 -   Done: S2B_MSIL2A_20250103T103339_N0511_R108_T32TMQ_20250103T144158
+2026-04-29 09:43:56.555 | INFO     | __main__:main:179 - [78/96] 2025 Winter Tile 33TUG
+2026-04-29 09:43:57.715 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20250101T095319_N0511_R079_T33TUG_20250101T1
+2026-04-29 09:44:01.604 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20250101T095319_N0511_R079_T33TUG_20250101T1 (273 MB)
+2026-04-29 09:47:14.902 | ERROR    | __main__:download_scene:132 -   Failed: ('Connection broken: IncompleteRead(22578242 bytes read, 263422597 more expected)', IncompleteRead(22578242 bytes read, 263422597 more expected))
+2026-04-29 09:47:16.910 | INFO     | __main__:main:179 - [79/96] 2025 Spring Tile 31TGK
+2026-04-29 09:47:21.924 | INFO     | __main__:main:203 -   Found: S2C_MSIL2A_20250319T102801_N0511_R108_T31TGK_20250319T1
+2026-04-29 09:47:25.532 | INFO     | __main__:download_scene:119 -   Downloading: S2C_MSIL2A_20250319T102801_N0511_R108_T31TGK_20250319T1 (1194 MB)
+2026-04-29 09:49:06.524 | ERROR    | __main__:download_scene:132 -   Failed: ('Connection broken: IncompleteRead(4399104 bytes read, 1247690628 more expected)', IncompleteRead(4399104 bytes read, 1247690628 more expected))
+2026-04-29 09:49:08.609 | INFO     | __main__:main:179 - [80/96] 2025 Spring Tile 31TGJ
+2026-04-29 09:49:08.609 | INFO     | __main__:main:186 - Refreshing token...
+2026-04-29 09:49:09.923 | INFO     | __main__:get_token:47 - Token obtained successfully
+2026-04-29 09:49:11.330 | INFO     | __main__:main:203 -   Found: S2C_MSIL2A_20250316T101821_N0511_R065_T31TGJ_20250316T1
+2026-04-29 09:49:13.158 | INFO     | __main__:download_scene:119 -   Downloading: S2C_MSIL2A_20250316T101821_N0511_R065_T31TGJ_20250316T1 (179 MB)
+2026-04-29 09:49:34.300 | SUCCESS  | __main__:download_scene:129 -   Done: S2C_MSIL2A_20250316T101821_N0511_R065_T31TGJ_20250316T161715
+2026-04-29 09:49:36.306 | INFO     | __main__:main:179 - [81/96] 2025 Spring Tile 31TGL
+2026-04-29 09:49:37.528 | INFO     | __main__:main:203 -   Found: S2C_MSIL2A_20250319T102801_N0511_R108_T31TGL_20250319T1
+2026-04-29 09:49:39.315 | INFO     | __main__:download_scene:119 -   Downloading: S2C_MSIL2A_20250319T102801_N0511_R108_T31TGL_20250319T1 (1205 MB)
+2026-04-29 09:51:51.404 | SUCCESS  | __main__:download_scene:129 -   Done: S2C_MSIL2A_20250319T102801_N0511_R108_T31TGL_20250319T164713
+2026-04-29 09:51:53.407 | INFO     | __main__:main:179 - [82/96] 2025 Spring Tile 32TMP
+2026-04-29 09:51:56.423 | INFO     | __main__:main:203 -   Found: S2C_MSIL2A_20250319T102801_N0511_R108_T32TMP_20250319T1
+2026-04-29 09:51:58.619 | INFO     | __main__:download_scene:119 -   Downloading: S2C_MSIL2A_20250319T102801_N0511_R108_T32TMP_20250319T1 (167 MB)
+2026-04-29 09:55:44.076 | ERROR    | __main__:download_scene:132 -   Failed: ('Connection broken: IncompleteRead(12152832 bytes read, 163266777 more expected)', IncompleteRead(12152832 bytes read, 163266777 more expected))
+2026-04-29 09:55:46.082 | INFO     | __main__:main:179 - [83/96] 2025 Spring Tile 32TMQ
+2026-04-29 09:55:47.615 | INFO     | __main__:main:203 -   Found: S2C_MSIL2A_20250319T102801_N0511_R108_T32TMQ_20250319T1
+2026-04-29 09:55:49.659 | INFO     | __main__:download_scene:119 -   Downloading: S2C_MSIL2A_20250319T102801_N0511_R108_T32TMQ_20250319T1 (523 MB)
+2026-04-29 09:56:59.993 | SUCCESS  | __main__:download_scene:129 -   Done: S2C_MSIL2A_20250319T102801_N0511_R108_T32TMQ_20250319T164713
+2026-04-29 09:57:01.997 | INFO     | __main__:main:179 - [84/96] 2025 Spring Tile 33TUG
+2026-04-29 09:57:05.753 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20250319T095041_N0511_R079_T33TUG_20250319T1
+2026-04-29 09:57:07.783 | INFO     | __main__:download_scene:119 -   Downloading: S2A_MSIL2A_20250319T095041_N0511_R079_T33TUG_20250319T1 (265 MB)
+2026-04-29 09:58:33.766 | SUCCESS  | __main__:download_scene:129 -   Done: S2A_MSIL2A_20250319T095041_N0511_R079_T33TUG_20250319T154214
+2026-04-29 09:58:35.771 | INFO     | __main__:main:179 - [85/96] 2025 Summer Tile 31TGK
+2026-04-29 09:58:37.924 | INFO     | __main__:main:203 -   Found: S2C_MSIL2A_20250617T102621_N0511_R108_T31TGK_20250617T1
+2026-04-29 09:58:39.786 | INFO     | __main__:download_scene:119 -   Downloading: S2C_MSIL2A_20250617T102621_N0511_R108_T31TGK_20250617T1 (1191 MB)
+2026-04-29 10:00:56.046 | SUCCESS  | __main__:download_scene:129 -   Done: S2C_MSIL2A_20250617T102621_N0511_R108_T31TGK_20250617T142610
+2026-04-29 10:00:58.050 | INFO     | __main__:main:179 - [86/96] 2025 Summer Tile 31TGJ
+2026-04-29 10:01:01.535 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20250616T102041_N0511_R065_T31TGJ_20250616T1
+2026-04-29 10:01:05.384 | INFO     | __main__:download_scene:119 -   Downloading: S2A_MSIL2A_20250616T102041_N0511_R065_T31TGJ_20250616T1 (157 MB)
+2026-04-29 10:05:21.450 | ERROR    | __main__:download_scene:132 -   Failed: ('Connection broken: IncompleteRead(13472967 bytes read, 151200861 more expected)', IncompleteRead(13472967 bytes read, 151200861 more expected))
+2026-04-29 10:05:23.526 | INFO     | __main__:main:179 - [87/96] 2025 Summer Tile 31TGL
+2026-04-29 10:05:24.753 | INFO     | __main__:main:203 -   Found: S2C_MSIL2A_20250617T102621_N0511_R108_T31TGL_20250617T1
+2026-04-29 10:05:26.769 | INFO     | __main__:download_scene:119 -   Downloading: S2C_MSIL2A_20250617T102621_N0511_R108_T31TGL_20250617T1 (1192 MB)
+2026-04-29 10:07:41.949 | SUCCESS  | __main__:download_scene:129 -   Done: S2C_MSIL2A_20250617T102621_N0511_R108_T31TGL_20250617T142610
+2026-04-29 10:07:43.952 | INFO     | __main__:main:179 - [88/96] 2025 Summer Tile 32TMP
+2026-04-29 10:07:45.527 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20250616T102041_N0511_R065_T32TMP_20250616T1
+2026-04-29 10:07:47.316 | INFO     | __main__:download_scene:119 -   Downloading: S2A_MSIL2A_20250616T102041_N0511_R065_T32TMP_20250616T1 (936 MB)
+2026-04-29 10:10:05.871 | SUCCESS  | __main__:download_scene:129 -   Done: S2A_MSIL2A_20250616T102041_N0511_R065_T32TMP_20250616T121917
+2026-04-29 10:10:07.876 | INFO     | __main__:main:179 - [89/96] 2025 Summer Tile 32TMQ
+2026-04-29 10:10:10.089 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20250616T102041_N0511_R065_T32TMQ_20250616T1
+2026-04-29 10:10:13.985 | INFO     | __main__:download_scene:119 -   Downloading: S2A_MSIL2A_20250616T102041_N0511_R065_T32TMQ_20250616T1 (1133 MB)
+2026-04-29 10:13:38.118 | ERROR    | __main__:download_scene:132 -   Failed: ('Connection broken: IncompleteRead(10366176 bytes read, 1177694345 more expected)', IncompleteRead(10366176 bytes read, 1177694345 more expected))
+2026-04-29 10:13:40.121 | INFO     | __main__:main:179 - [90/96] 2025 Summer Tile 33TUG
+2026-04-29 10:13:40.122 | INFO     | __main__:main:186 - Refreshing token...
+2026-04-29 10:13:42.238 | INFO     | __main__:get_token:47 - Token obtained successfully
+2026-04-29 10:13:44.707 | INFO     | __main__:main:203 -   Found: S2C_MSIL2A_20250615T095051_N0511_R079_T33TUG_20250615T1
+2026-04-29 10:13:46.611 | INFO     | __main__:download_scene:119 -   Downloading: S2C_MSIL2A_20250615T095051_N0511_R079_T33TUG_20250615T1 (265 MB)
+2026-04-29 10:14:30.077 | SUCCESS  | __main__:download_scene:129 -   Done: S2C_MSIL2A_20250615T095051_N0511_R079_T33TUG_20250615T122401
+2026-04-29 10:14:32.083 | INFO     | __main__:main:179 - [91/96] 2025 Autumn Tile 31TGK
+2026-04-29 10:14:34.763 | INFO     | __main__:main:203 -   Found: S2C_MSIL2A_20250918T104031_N0511_R008_T31TGK_20250918T1
+2026-04-29 10:14:37.152 | INFO     | __main__:download_scene:119 -   Downloading: S2C_MSIL2A_20250918T104031_N0511_R008_T31TGK_20250918T1 (252 MB)
+2026-04-29 10:15:23.324 | SUCCESS  | __main__:download_scene:129 -   Done: S2C_MSIL2A_20250918T104031_N0511_R008_T31TGK_20250918T161413
+2026-04-29 10:15:25.328 | INFO     | __main__:main:179 - [92/96] 2025 Autumn Tile 31TGJ
+2026-04-29 10:15:26.633 | INFO     | __main__:main:203 -   Found: S2C_MSIL2A_20250915T103041_N0511_R108_T31TGJ_20250915T1
+2026-04-29 10:15:28.611 | INFO     | __main__:download_scene:119 -   Downloading: S2C_MSIL2A_20250915T103041_N0511_R108_T31TGJ_20250915T1 (1157 MB)
+2026-04-29 10:19:34.243 | SUCCESS  | __main__:download_scene:129 -   Done: S2C_MSIL2A_20250915T103041_N0511_R108_T31TGJ_20250915T174614
+2026-04-29 10:19:36.252 | INFO     | __main__:main:179 - [93/96] 2025 Autumn Tile 31TGL
+2026-04-29 10:19:37.508 | INFO     | __main__:main:203 -   Found: S2C_MSIL2A_20250918T104031_N0511_R008_T31TGL_20250918T1
+2026-04-29 10:19:39.231 | INFO     | __main__:download_scene:119 -   Downloading: S2C_MSIL2A_20250918T104031_N0511_R008_T31TGL_20250918T1 (546 MB)
+2026-04-29 10:20:41.149 | SUCCESS  | __main__:download_scene:129 -   Done: S2C_MSIL2A_20250918T104031_N0511_R008_T31TGL_20250918T161413
+2026-04-29 10:20:43.152 | INFO     | __main__:main:179 - [94/96] 2025 Autumn Tile 32TMP
+2026-04-29 10:20:44.631 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20250920T102619_N0511_R108_T32TMP_20250920T1
+2026-04-29 10:20:46.448 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20250920T102619_N0511_R108_T32TMP_20250920T1 (179 MB)
+2026-04-29 10:21:08.184 | SUCCESS  | __main__:download_scene:129 -   Done: S2B_MSIL2A_20250920T102619_N0511_R108_T32TMP_20250920T142941
+2026-04-29 10:21:10.188 | INFO     | __main__:main:179 - [95/96] 2025 Autumn Tile 32TMQ
+2026-04-29 10:21:12.137 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20250920T102619_N0511_R108_T32TMQ_20250920T1
+2026-04-29 10:21:14.358 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20250920T102619_N0511_R108_T32TMQ_20250920T1 (561 MB)
+2026-04-29 10:25:27.261 | SUCCESS  | __main__:download_scene:129 -   Done: S2B_MSIL2A_20250920T102619_N0511_R108_T32TMQ_20250920T142941
+2026-04-29 10:25:29.264 | INFO     | __main__:main:179 - [96/96] 2025 Autumn Tile 33TUG
+2026-04-29 10:25:30.808 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20250915T095041_N0511_R079_T33TUG_20250915T1
+2026-04-29 10:25:32.788 | INFO     | __main__:download_scene:119 -   Downloading: S2A_MSIL2A_20250915T095041_N0511_R079_T33TUG_20250915T1 (256 MB)
+2026-04-29 10:26:04.101 | SUCCESS  | __main__:download_scene:129 -   Done: S2A_MSIL2A_20250915T095041_N0511_R079_T33TUG_20250915T114213
+2026-04-29 10:26:06.107 | INFO     | __main__:main:217 - 
+============================================================
+2026-04-29 10:26:06.107 | INFO     | __main__:main:218 - COMPLETE:
+2026-04-29 10:26:06.112 | INFO     | __main__:main:219 -   Downloaded:  79
+2026-04-29 10:26:06.112 | INFO     | __main__:main:220 -   Failed:      17
+2026-04-29 10:26:06.121 | INFO     | __main__:main:221 -   Not found:   0
+2026-04-29 10:26:06.121 | INFO     | __main__:main:222 -   Log saved:   C:\Users\Apple\deep_sea_pulse\outputs\sentinel2\R3\downloaded_scenes.json
+2026-04-29 10:26:06.122 | INFO     | __main__:main:223 - ============================================================
+2026-04-29 14:03:06.565 | INFO     | __main__:main:146 - ============================================================
+2026-04-29 14:03:06.566 | INFO     | __main__:main:147 - Phase 1 - Sentinel-2 SMART Seasonal Download
+2026-04-29 14:03:06.566 | INFO     | __main__:main:148 - Region:  R3 Western Mediterranean
+2026-04-29 14:03:06.567 | INFO     | __main__:main:149 - Tiles:   ['31TGK', '31TGJ', '31TGL', '32TMP', '32TMQ', '33TUG']
+2026-04-29 14:03:06.567 | INFO     | __main__:main:150 - Years:   [2022, 2023, 2024, 2025]
+2026-04-29 14:03:06.567 | INFO     | __main__:main:151 - Seasons: ['Winter', 'Spring', 'Summer', 'Autumn']
+2026-04-29 14:03:06.568 | INFO     | __main__:main:152 - Target:  ~96 scenes
+2026-04-29 14:03:06.568 | INFO     | __main__:main:153 - Output:  C:\Users\Apple\deep_sea_pulse\outputs\sentinel2\R3
+2026-04-29 14:03:06.568 | INFO     | __main__:main:154 - ============================================================
+2026-04-29 14:03:08.106 | INFO     | __main__:get_token:47 - Token obtained successfully
+2026-04-29 14:03:08.109 | INFO     | __main__:main:172 - 
+Total slots to search: 96
+2026-04-29 14:03:08.109 | INFO     | __main__:main:173 - Starting search and download...
+
+2026-04-29 14:03:08.109 | INFO     | __main__:main:179 - [1/96] 2022 Winter Tile 31TGK
+2026-04-29 14:03:09.573 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20220114T103401_N0510_R108_T31TGK_20240429T2
+2026-04-29 14:03:09.575 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2A_MSIL2A_20220114T103401_N0510_R108_T31TGK_20240429T232315
+2026-04-29 14:03:11.577 | INFO     | __main__:main:179 - [2/96] 2022 Winter Tile 31TGJ
+2026-04-29 14:03:14.185 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20220106T102319_N0510_R065_T31TGJ_20240424T2
+2026-04-29 14:03:14.186 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2B_MSIL2A_20220106T102319_N0510_R065_T31TGJ_20240424T224321
+2026-04-29 14:03:16.188 | INFO     | __main__:main:179 - [3/96] 2022 Winter Tile 31TGL
+2026-04-29 14:03:17.659 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20220114T103401_N0510_R108_T31TGL_20240429T2
+2026-04-29 14:03:17.660 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2A_MSIL2A_20220114T103401_N0510_R108_T31TGL_20240429T232315
+2026-04-29 14:03:19.662 | INFO     | __main__:main:179 - [4/96] 2022 Winter Tile 32TMP
+2026-04-29 14:03:22.329 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20220109T103319_N0510_R108_T32TMP_20240426T1
+2026-04-29 14:03:29.468 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2B_MSIL2A_20220109T103319_N0510_R108_T32TMP_20240426T172724
+2026-04-29 14:03:31.477 | INFO     | __main__:main:179 - [5/96] 2022 Winter Tile 32TMQ
+2026-04-29 14:03:32.812 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20220109T103319_N0510_R108_T32TMQ_20240426T1
+2026-04-29 14:03:32.814 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2B_MSIL2A_20220109T103319_N0510_R108_T32TMQ_20240426T172724
+2026-04-29 14:03:34.815 | INFO     | __main__:main:179 - [6/96] 2022 Winter Tile 33TUG
+2026-04-29 14:03:36.224 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20220115T100351_N0500_R122_T33TUG_20230205T1
+2026-04-29 14:03:36.225 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2A_MSIL2A_20220115T100351_N0500_R122_T33TUG_20230205T191237
+2026-04-29 14:03:38.227 | INFO     | __main__:main:179 - [7/96] 2022 Spring Tile 31TGK
+2026-04-29 14:03:39.627 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20220323T103639_N0510_R008_T31TGK_20240525T1
+2026-04-29 14:03:39.891 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2B_MSIL2A_20220323T103639_N0510_R008_T31TGK_20240525T162111
+2026-04-29 14:03:41.894 | INFO     | __main__:main:179 - [8/96] 2022 Spring Tile 31TGJ
+2026-04-29 14:03:50.839 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20220322T101711_N0510_R065_T31TGJ_20240526T0
+2026-04-29 14:03:51.146 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2A_MSIL2A_20220322T101711_N0510_R065_T31TGJ_20240526T094620
+2026-04-29 14:03:53.212 | INFO     | __main__:main:179 - [9/96] 2022 Spring Tile 31TGL
+2026-04-29 14:03:56.026 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20220323T103639_N0510_R008_T31TGL_20240525T1
+2026-04-29 14:03:56.028 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2B_MSIL2A_20220323T103639_N0510_R008_T31TGL_20240525T162111
+2026-04-29 14:03:58.038 | INFO     | __main__:main:179 - [10/96] 2022 Spring Tile 32TMP
+2026-04-29 14:03:58.039 | INFO     | __main__:main:186 - Refreshing token...
+2026-04-29 14:03:59.396 | INFO     | __main__:get_token:47 - Token obtained successfully
+2026-04-29 14:04:01.181 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20220322T101711_N0510_R065_T32TMP_20240526T0
+2026-04-29 14:04:01.182 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2A_MSIL2A_20220322T101711_N0510_R065_T32TMP_20240526T094620
+2026-04-29 14:04:03.190 | INFO     | __main__:main:179 - [11/96] 2022 Spring Tile 32TMQ
+2026-04-29 14:04:04.376 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20220320T102639_N0510_R108_T32TMQ_20240525T2
+2026-04-29 14:04:04.377 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2B_MSIL2A_20220320T102639_N0510_R108_T32TMQ_20240525T215800
+2026-04-29 14:04:06.379 | INFO     | __main__:main:179 - [12/96] 2022 Spring Tile 33TUG
+2026-04-29 14:04:07.575 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20220321T100029_N0510_R122_T33TUG_20240523T1
+2026-04-29 14:04:07.575 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2B_MSIL2A_20220321T100029_N0510_R122_T33TUG_20240523T141544
+2026-04-29 14:04:09.577 | INFO     | __main__:main:179 - [13/96] 2022 Summer Tile 31TGK
+2026-04-29 14:04:12.347 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20220616T103631_N0510_R008_T31TGK_20240628T1
+2026-04-29 14:04:12.349 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2A_MSIL2A_20220616T103631_N0510_R008_T31TGK_20240628T163751
+2026-04-29 14:04:14.350 | INFO     | __main__:main:179 - [14/96] 2022 Summer Tile 31TGJ
+2026-04-29 14:04:26.886 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20220616T103631_N0510_R008_T31TGJ_20240628T1
+2026-04-29 14:04:26.888 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2A_MSIL2A_20220616T103631_N0510_R008_T31TGJ_20240628T163751
+2026-04-29 14:04:28.897 | INFO     | __main__:main:179 - [15/96] 2022 Summer Tile 31TGL
+2026-04-29 14:04:30.282 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20220618T102559_N0510_R108_T31TGL_20240628T1
+2026-04-29 14:04:30.284 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2B_MSIL2A_20220618T102559_N0510_R108_T31TGL_20240628T132802
+2026-04-29 14:04:32.297 | INFO     | __main__:main:179 - [16/96] 2022 Summer Tile 32TMP
+2026-04-29 14:04:33.848 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20220620T102041_N0510_R065_T32TMP_20240628T0
+2026-04-29 14:04:33.850 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2A_MSIL2A_20220620T102041_N0510_R065_T32TMP_20240628T034130
+2026-04-29 14:04:35.864 | INFO     | __main__:main:179 - [17/96] 2022 Summer Tile 32TMQ
+2026-04-29 14:04:37.126 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20220618T102559_N0510_R108_T32TMQ_20240628T1
+2026-04-29 14:04:39.343 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20220618T102559_N0510_R108_T32TMQ_20240628T1 (540 MB)
+2026-04-29 14:05:43.188 | SUCCESS  | __main__:download_scene:129 -   Done: S2B_MSIL2A_20220618T102559_N0510_R108_T32TMQ_20240628T132802
+2026-04-29 14:05:45.191 | INFO     | __main__:main:179 - [18/96] 2022 Summer Tile 33TUG
+2026-04-29 14:05:52.191 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20220616T095039_N0510_R079_T33TUG_20240701T0
+2026-04-29 14:05:52.193 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2B_MSIL2A_20220616T095039_N0510_R079_T33TUG_20240701T005431
+2026-04-29 14:05:54.205 | INFO     | __main__:main:179 - [19/96] 2022 Autumn Tile 31TGK
+2026-04-29 14:06:06.714 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20220919T103639_N0510_R008_T31TGK_20240727T0
+2026-04-29 14:06:06.715 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2B_MSIL2A_20220919T103639_N0510_R008_T31TGK_20240727T030649
+2026-04-29 14:06:08.716 | INFO     | __main__:main:179 - [20/96] 2022 Autumn Tile 31TGJ
+2026-04-29 14:06:08.717 | INFO     | __main__:main:186 - Refreshing token...
+2026-04-29 14:06:10.515 | INFO     | __main__:get_token:47 - Token obtained successfully
+2026-04-29 14:06:11.920 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20220916T102639_N0510_R108_T31TGJ_20240727T0
+2026-04-29 14:06:11.924 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2B_MSIL2A_20220916T102639_N0510_R108_T31TGJ_20240727T091731
+2026-04-29 14:06:13.925 | INFO     | __main__:main:179 - [21/96] 2022 Autumn Tile 31TGL
+2026-04-29 14:06:18.915 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20220919T103639_N0510_R008_T31TGL_20240727T0
+2026-04-29 14:06:18.917 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2B_MSIL2A_20220919T103639_N0510_R008_T31TGL_20240727T030649
+2026-04-29 14:06:20.920 | INFO     | __main__:main:179 - [22/96] 2022 Autumn Tile 32TMP
+2026-04-29 14:06:22.189 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20220918T101701_N0510_R065_T32TMP_20240730T0
+2026-04-29 14:06:22.190 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2A_MSIL2A_20220918T101701_N0510_R065_T32TMP_20240730T065346
+2026-04-29 14:06:24.192 | INFO     | __main__:main:179 - [23/96] 2022 Autumn Tile 32TMQ
+2026-04-29 14:06:25.569 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20220916T102639_N0510_R108_T32TMQ_20240727T0
+2026-04-29 14:06:27.510 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20220916T102639_N0510_R108_T32TMQ_20240727T0 (565 MB)
+2026-04-29 14:10:12.115 | SUCCESS  | __main__:download_scene:129 -   Done: S2B_MSIL2A_20220916T102639_N0510_R108_T32TMQ_20240727T091731
+2026-04-29 14:10:14.122 | INFO     | __main__:main:179 - [24/96] 2022 Autumn Tile 33TUG
+2026-04-29 14:10:15.462 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20220919T095041_N0510_R079_T33TUG_20240729T0
+2026-04-29 14:10:18.056 | INFO     | __main__:download_scene:119 -   Downloading: S2A_MSIL2A_20220919T095041_N0510_R079_T33TUG_20240729T0 (277 MB)
+2026-04-29 14:11:19.477 | SUCCESS  | __main__:download_scene:129 -   Done: S2A_MSIL2A_20220919T095041_N0510_R079_T33TUG_20240729T093132
+2026-04-29 14:11:21.481 | INFO     | __main__:main:179 - [25/96] 2023 Winter Tile 31TGK
+2026-04-29 14:11:22.991 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20230104T103329_N0510_R108_T31TGK_20240809T0
+2026-04-29 14:11:27.040 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20230104T103329_N0510_R108_T31TGK_20240809T0 (1172 MB)
+2026-04-29 14:14:38.176 | SUCCESS  | __main__:download_scene:129 -   Done: S2B_MSIL2A_20230104T103329_N0510_R108_T31TGK_20240809T082154
+2026-04-29 14:14:40.179 | INFO     | __main__:main:179 - [26/96] 2023 Winter Tile 31TGJ
+2026-04-29 14:14:42.220 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20230104T103329_N0510_R108_T31TGJ_20240809T0
+2026-04-29 14:14:44.582 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20230104T103329_N0510_R108_T31TGJ_20240809T0 (1141 MB)
+2026-04-29 14:18:46.547 | SUCCESS  | __main__:download_scene:129 -   Done: S2B_MSIL2A_20230104T103329_N0510_R108_T31TGJ_20240809T082154
+2026-04-29 14:18:48.551 | INFO     | __main__:main:179 - [27/96] 2023 Winter Tile 31TGL
+2026-04-29 14:18:51.980 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20230201T104251_N0510_R008_T31TGL_20240815T1
+2026-04-29 14:18:53.946 | INFO     | __main__:download_scene:119 -   Downloading: S2A_MSIL2A_20230201T104251_N0510_R008_T31TGL_20240815T1 (570 MB)
+2026-04-29 14:20:41.963 | SUCCESS  | __main__:download_scene:129 -   Done: S2A_MSIL2A_20230201T104251_N0510_R008_T31TGL_20240815T164613
+2026-04-29 14:20:43.968 | INFO     | __main__:main:179 - [28/96] 2023 Winter Tile 32TMP
+2026-04-29 14:25:55.299 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20230109T103421_N0510_R108_T32TMP_20240810T1
+2026-04-29 14:25:57.462 | INFO     | __main__:download_scene:119 -   Downloading: S2A_MSIL2A_20230109T103421_N0510_R108_T32TMP_20240810T1 (180 MB)
+2026-04-29 14:26:20.506 | SUCCESS  | __main__:download_scene:129 -   Done: S2A_MSIL2A_20230109T103421_N0510_R108_T32TMP_20240810T181757
+2026-04-29 14:26:22.511 | INFO     | __main__:main:179 - [29/96] 2023 Winter Tile 32TMQ
+2026-04-29 14:26:23.880 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20230129T103301_N0510_R108_T32TMQ_20240811T0
+2026-04-29 14:26:25.752 | INFO     | __main__:download_scene:119 -   Downloading: S2A_MSIL2A_20230129T103301_N0510_R108_T32TMQ_20240811T0 (571 MB)
+2026-04-29 14:27:32.222 | SUCCESS  | __main__:download_scene:129 -   Done: S2A_MSIL2A_20230129T103301_N0510_R108_T32TMQ_20240811T014225
+2026-04-29 14:27:34.224 | INFO     | __main__:main:179 - [30/96] 2023 Winter Tile 33TUG
+2026-04-29 14:27:34.225 | INFO     | __main__:main:186 - Refreshing token...
+2026-04-29 14:27:40.785 | INFO     | __main__:get_token:47 - Token obtained successfully
+2026-04-29 14:27:42.118 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20230102T095319_N0510_R079_T33TUG_20240810T0
+2026-04-29 14:27:42.119 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2B_MSIL2A_20230102T095319_N0510_R079_T33TUG_20240810T082750
+2026-04-29 14:27:44.120 | INFO     | __main__:main:179 - [31/96] 2023 Spring Tile 31TGK
+2026-04-29 14:27:46.216 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20230328T103639_N0510_R008_T31TGK_20240829T1
+2026-04-29 14:27:46.216 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2B_MSIL2A_20230328T103639_N0510_R008_T31TGK_20240829T163812
+2026-04-29 14:27:48.217 | INFO     | __main__:main:179 - [32/96] 2023 Spring Tile 31TGJ
+2026-04-29 14:27:49.798 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20230322T101649_N0510_R065_T31TGJ_20240827T1
+2026-04-29 14:27:49.799 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2B_MSIL2A_20230322T101649_N0510_R065_T31TGJ_20240827T150923
+2026-04-29 14:27:51.800 | INFO     | __main__:main:179 - [33/96] 2023 Spring Tile 31TGL
+2026-04-29 14:27:53.076 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20230419T102601_N0510_R108_T31TGL_20240831T1
+2026-04-29 14:27:53.078 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2A_MSIL2A_20230419T102601_N0510_R108_T31TGL_20240831T102559
+2026-04-29 14:27:55.080 | INFO     | __main__:main:179 - [34/96] 2023 Spring Tile 32TMP
+2026-04-29 14:27:56.456 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20230322T101649_N0510_R065_T32TMP_20240827T1
+2026-04-29 14:27:56.457 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2B_MSIL2A_20230322T101649_N0510_R065_T32TMP_20240827T150923
+2026-04-29 14:27:58.460 | INFO     | __main__:main:179 - [35/96] 2023 Spring Tile 32TMQ
+2026-04-29 14:28:03.181 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20230320T102731_N0510_R108_T32TMQ_20240826T0
+2026-04-29 14:28:03.183 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2A_MSIL2A_20230320T102731_N0510_R108_T32TMQ_20240826T022705
+2026-04-29 14:28:05.184 | INFO     | __main__:main:179 - [36/96] 2023 Spring Tile 33TUG
+2026-04-29 14:28:06.926 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20230316T100029_N0510_R122_T33TUG_20240827T1
+2026-04-29 14:28:06.928 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2B_MSIL2A_20230316T100029_N0510_R122_T33TUG_20240827T115615
+2026-04-29 14:28:08.929 | INFO     | __main__:main:179 - [37/96] 2023 Summer Tile 31TGK
+2026-04-29 14:28:10.937 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20230616T103629_N0510_R008_T31TGK_20240926T1
+2026-04-29 14:28:10.939 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2B_MSIL2A_20230616T103629_N0510_R008_T31TGK_20240926T110153
+2026-04-29 14:28:12.941 | INFO     | __main__:main:179 - [38/96] 2023 Summer Tile 31TGJ
+2026-04-29 14:28:16.406 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20230616T103629_N0510_R008_T31TGJ_20240926T1
+2026-04-29 14:28:16.407 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2B_MSIL2A_20230616T103629_N0510_R008_T31TGJ_20240926T110153
+2026-04-29 14:28:18.415 | INFO     | __main__:main:179 - [39/96] 2023 Summer Tile 31TGL
+2026-04-29 14:28:20.828 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20230616T103629_N0510_R008_T31TGL_20240926T1
+2026-04-29 14:28:20.829 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2B_MSIL2A_20230616T103629_N0510_R008_T31TGL_20240926T110153
+2026-04-29 14:28:22.838 | INFO     | __main__:main:179 - [40/96] 2023 Summer Tile 32TMP
+2026-04-29 14:28:22.839 | INFO     | __main__:main:186 - Refreshing token...
+2026-04-29 14:28:24.512 | INFO     | __main__:get_token:47 - Token obtained successfully
+2026-04-29 14:28:31.885 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20230615T102031_N0510_R065_T32TMP_20240912T0
+2026-04-29 14:28:31.888 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2A_MSIL2A_20230615T102031_N0510_R065_T32TMP_20240912T065622
+2026-04-29 14:28:33.895 | INFO     | __main__:main:179 - [41/96] 2023 Summer Tile 32TMQ
+2026-04-29 14:28:35.471 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20230623T102559_N0510_R108_T32TMQ_20240909T0
+2026-04-29 14:28:35.473 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2B_MSIL2A_20230623T102559_N0510_R108_T32TMQ_20240909T013344
+2026-04-29 14:28:37.481 | INFO     | __main__:main:179 - [42/96] 2023 Summer Tile 33TUG
+2026-04-29 14:28:39.158 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20230621T094549_N0510_R079_T33TUG_20241120T2
+2026-04-29 14:28:39.160 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2B_MSIL2A_20230621T094549_N0510_R079_T33TUG_20241120T230517
+2026-04-29 14:28:41.167 | INFO     | __main__:main:179 - [43/96] 2023 Autumn Tile 31TGK
+2026-04-29 14:28:42.846 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20230924T103659_N0510_R008_T31TGK_20241025T1
+2026-04-29 14:28:42.847 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2B_MSIL2A_20230924T103659_N0510_R008_T31TGK_20241025T153729
+2026-04-29 14:28:44.855 | INFO     | __main__:main:179 - [44/96] 2023 Autumn Tile 31TGJ
+2026-04-29 14:28:46.325 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20230919T103721_N0510_R008_T31TGJ_20241105T1
+2026-04-29 14:28:46.327 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2A_MSIL2A_20230919T103721_N0510_R008_T31TGJ_20241105T191503
+2026-04-29 14:28:48.335 | INFO     | __main__:main:179 - [45/96] 2023 Autumn Tile 31TGL
+2026-04-29 14:28:49.706 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20230924T103659_N0510_R008_T31TGL_20241101T0
+2026-04-29 14:28:49.708 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2B_MSIL2A_20230924T103659_N0510_R008_T31TGL_20241101T040059
+2026-04-29 14:28:51.716 | INFO     | __main__:main:179 - [46/96] 2023 Autumn Tile 32TMP
+2026-04-29 14:28:53.303 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20230926T102801_N0510_R108_T32TMP_20241027T0
+2026-04-29 14:28:53.304 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2A_MSIL2A_20230926T102801_N0510_R108_T32TMP_20241027T055635
+2026-04-29 14:28:55.312 | INFO     | __main__:main:179 - [47/96] 2023 Autumn Tile 32TMQ
+2026-04-29 14:28:56.567 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20230926T102801_N0510_R108_T32TMQ_20241027T0
+2026-04-29 14:28:56.569 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2A_MSIL2A_20230926T102801_N0510_R108_T32TMQ_20241027T055635
+2026-04-29 14:28:58.575 | INFO     | __main__:main:179 - [48/96] 2023 Autumn Tile 33TUG
+2026-04-29 14:29:00.867 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20230927T100031_N0510_R122_T33TUG_20241101T1
+2026-04-29 14:29:00.869 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2A_MSIL2A_20230927T100031_N0510_R122_T33TUG_20241101T152850
+2026-04-29 14:29:02.877 | INFO     | __main__:main:179 - [49/96] 2024 Winter Tile 31TGK
+2026-04-29 14:29:04.554 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20240104T103431_N0510_R108_T31TGK_20240104T1
+2026-04-29 14:29:06.560 | INFO     | __main__:download_scene:119 -   Downloading: S2A_MSIL2A_20240104T103431_N0510_R108_T31TGK_20240104T1 (1183 MB)
+2026-04-29 14:32:08.938 | SUCCESS  | __main__:download_scene:129 -   Done: S2A_MSIL2A_20240104T103431_N0510_R108_T31TGK_20240104T144951
+2026-04-29 14:32:10.941 | INFO     | __main__:main:179 - [50/96] 2024 Winter Tile 31TGJ
+2026-04-29 14:32:10.941 | INFO     | __main__:main:186 - Refreshing token...
+2026-04-29 14:32:12.561 | INFO     | __main__:get_token:47 - Token obtained successfully
+2026-04-29 14:32:14.046 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20240104T103431_N0510_R108_T31TGJ_20240104T1
+2026-04-29 14:32:14.047 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2A_MSIL2A_20240104T103431_N0510_R108_T31TGJ_20240104T144951
+2026-04-29 14:32:16.058 | INFO     | __main__:main:179 - [51/96] 2024 Winter Tile 31TGL
+2026-04-29 14:32:17.684 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20240203T103231_N0510_R108_T31TGL_20240203T1
+2026-04-29 14:32:17.685 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2A_MSIL2A_20240203T103231_N0510_R108_T31TGL_20240203T143851
+2026-04-29 14:32:19.690 | INFO     | __main__:main:179 - [52/96] 2024 Winter Tile 32TMP
+2026-04-29 14:32:20.923 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20240104T103431_N0510_R108_T32TMP_20240104T1
+2026-04-29 14:32:20.925 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2A_MSIL2A_20240104T103431_N0510_R108_T32TMP_20240104T144951
+2026-04-29 14:32:22.932 | INFO     | __main__:main:179 - [53/96] 2024 Winter Tile 32TMQ
+2026-04-29 14:32:27.099 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20240104T103431_N0510_R108_T32TMQ_20240104T1
+2026-04-29 14:32:27.100 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2A_MSIL2A_20240104T103431_N0510_R108_T32TMQ_20240104T144951
+2026-04-29 14:32:29.104 | INFO     | __main__:main:179 - [54/96] 2024 Winter Tile 33TUG
+2026-04-29 14:32:31.512 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20240122T095311_N0510_R079_T33TUG_20240122T1
+2026-04-29 14:32:31.513 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2A_MSIL2A_20240122T095311_N0510_R079_T33TUG_20240122T124949
+2026-04-29 14:32:33.521 | INFO     | __main__:main:179 - [55/96] 2024 Spring Tile 31TGK
+2026-04-29 14:32:34.991 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20240319T102639_N0510_R108_T31TGK_20240319T1
+2026-04-29 14:32:34.993 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2B_MSIL2A_20240319T102639_N0510_R108_T31TGK_20240319T131110
+2026-04-29 14:32:37.007 | INFO     | __main__:main:179 - [56/96] 2024 Spring Tile 31TGJ
+2026-04-29 14:32:38.474 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20240322T103639_N0510_R008_T31TGJ_20240322T1
+2026-04-29 14:32:38.475 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2B_MSIL2A_20240322T103639_N0510_R008_T31TGJ_20240322T134726
+2026-04-29 14:32:40.483 | INFO     | __main__:main:179 - [57/96] 2024 Spring Tile 31TGL
+2026-04-29 14:32:42.672 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20240319T102639_N0510_R108_T31TGL_20240319T1
+2026-04-29 14:32:42.673 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2B_MSIL2A_20240319T102639_N0510_R108_T31TGL_20240319T131110
+2026-04-29 14:32:44.681 | INFO     | __main__:main:179 - [58/96] 2024 Spring Tile 32TMP
+2026-04-29 14:32:46.620 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20240316T101649_N0510_R065_T32TMP_20240316T1
+2026-04-29 14:32:46.622 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2B_MSIL2A_20240316T101649_N0510_R065_T32TMP_20240316T134307
+2026-04-29 14:32:48.629 | INFO     | __main__:main:179 - [59/96] 2024 Spring Tile 32TMQ
+2026-04-29 14:32:49.893 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20240316T101649_N0510_R065_T32TMQ_20240316T1
+2026-04-29 14:32:49.895 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2B_MSIL2A_20240316T101649_N0510_R065_T32TMQ_20240316T134307
+2026-04-29 14:32:51.903 | INFO     | __main__:main:179 - [60/96] 2024 Spring Tile 33TUG
+2026-04-29 14:32:51.904 | INFO     | __main__:main:186 - Refreshing token...
+2026-04-29 14:32:53.281 | INFO     | __main__:get_token:47 - Token obtained successfully
+2026-04-29 14:32:58.011 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20240317T094649_N0510_R079_T33TUG_20240317T1
+2026-04-29 14:32:58.012 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2B_MSIL2A_20240317T094649_N0510_R079_T33TUG_20240317T123310
+2026-04-29 14:33:00.017 | INFO     | __main__:main:179 - [61/96] 2024 Summer Tile 31TGK
+2026-04-29 14:33:02.435 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20240617T102559_N0510_R108_T31TGK_20240617T1
+2026-04-29 14:33:02.437 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2B_MSIL2A_20240617T102559_N0510_R108_T31TGK_20240617T134959
+2026-04-29 14:33:04.445 | INFO     | __main__:main:179 - [62/96] 2024 Summer Tile 31TGJ
+2026-04-29 14:33:07.141 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20240617T102559_N0510_R108_T31TGJ_20240617T1
+2026-04-29 14:33:07.143 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2B_MSIL2A_20240617T102559_N0510_R108_T31TGJ_20240617T134959
+2026-04-29 14:33:09.150 | INFO     | __main__:main:179 - [63/96] 2024 Summer Tile 31TGL
+2026-04-29 14:33:12.471 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20240617T102559_N0510_R108_T31TGL_20240617T1
+2026-04-29 14:33:12.472 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2B_MSIL2A_20240617T102559_N0510_R108_T31TGL_20240617T134959
+2026-04-29 14:33:14.479 | INFO     | __main__:main:179 - [64/96] 2024 Summer Tile 32TMP
+2026-04-29 14:33:22.813 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20240704T101559_N0510_R065_T32TMP_20240704T1
+2026-04-29 14:33:22.815 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2B_MSIL2A_20240704T101559_N0510_R065_T32TMP_20240704T130125
+2026-04-29 14:33:24.822 | INFO     | __main__:main:179 - [65/96] 2024 Summer Tile 32TMQ
+2026-04-29 14:33:34.384 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20240627T102559_N0510_R108_T32TMQ_20240627T1
+2026-04-29 14:33:39.097 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20240627T102559_N0510_R108_T32TMQ_20240627T1 (546 MB)
+2026-04-29 14:34:45.397 | SUCCESS  | __main__:download_scene:129 -   Done: S2B_MSIL2A_20240627T102559_N0510_R108_T32TMQ_20240627T131221
+2026-04-29 14:34:47.404 | INFO     | __main__:main:179 - [66/96] 2024 Summer Tile 33TUG
+2026-04-29 14:34:51.288 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20240615T094549_N0510_R079_T33TUG_20240615T1
+2026-04-29 14:34:51.290 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2B_MSIL2A_20240615T094549_N0510_R079_T33TUG_20240615T114834
+2026-04-29 14:34:53.305 | INFO     | __main__:main:179 - [67/96] 2024 Autumn Tile 31TGK
+2026-04-29 14:34:56.923 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20240915T102559_N0511_R108_T31TGK_20240915T1
+2026-04-29 14:34:56.952 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2B_MSIL2A_20240915T102559_N0511_R108_T31TGK_20240915T131207
+2026-04-29 14:34:58.954 | INFO     | __main__:main:179 - [68/96] 2024 Autumn Tile 31TGJ
+2026-04-29 14:35:04.599 | WARNING  | __main__:search_best_scene:91 - Attempt 1/3 failed: HTTPSConnectionPool(host='catalogue.dataspace.copernicus.eu', port=443): Max retries exceeded with url: /odata/v1/Products?%24filter=Collection%2FName+eq+%27SENTINEL-2%27+and+Attributes%2FOData.CSC.StringAttribute%2Fany%28att%3Aatt%2FName+eq+%27productType%27+and+att%2FOData.CSC.StringAttribute%2FValue+eq+%27S2MSI2A%27%29+and+Attributes%2FOData.CSC.StringAttribute%2Fany%28att%3Aatt%2FName+eq+%27tileId%27+and+att%2FOData.CSC.StringAttribute%2FValue+eq+%2731TGJ%27%29+and+Attributes%2FOData.CSC.DoubleAttribute%2Fany%28att%3Aatt%2FName+eq+%27cloudCover%27+and+att%2FOData.CSC.DoubleAttribute%2FValue+le+15%29+and+ContentDate%2FStart+gt+2024-09-15T00%3A00%3A00.000Z+and+ContentDate%2FStart+lt+2024-12-31T23%3A59%3A59.999Z&%24orderby=ContentDate%2FStart+asc&%24top=1 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)')))
+2026-04-29 14:35:18.325 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20240915T102559_N0511_R108_T31TGJ_20240915T1
+2026-04-29 14:35:18.326 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2B_MSIL2A_20240915T102559_N0511_R108_T31TGJ_20240915T131207
+2026-04-29 14:35:20.328 | INFO     | __main__:main:179 - [69/96] 2024 Autumn Tile 31TGL
+2026-04-29 14:35:22.935 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20240915T102559_N0511_R108_T31TGL_20240915T1
+2026-04-29 14:35:22.937 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2B_MSIL2A_20240915T102559_N0511_R108_T31TGL_20240915T131207
+2026-04-29 14:35:24.939 | INFO     | __main__:main:179 - [70/96] 2024 Autumn Tile 32TMP
+2026-04-29 14:35:24.940 | INFO     | __main__:main:186 - Refreshing token...
+2026-04-29 14:35:26.332 | INFO     | __main__:get_token:47 - Token obtained successfully
+2026-04-29 14:35:27.637 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20240915T102559_N0511_R108_T32TMP_20240915T1
+2026-04-29 14:35:27.638 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2B_MSIL2A_20240915T102559_N0511_R108_T32TMP_20240915T131207
+2026-04-29 14:35:29.639 | INFO     | __main__:main:179 - [71/96] 2024 Autumn Tile 32TMQ
+2026-04-29 14:35:31.092 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20240915T102559_N0511_R108_T32TMQ_20240915T1
+2026-04-29 14:35:33.067 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20240915T102559_N0511_R108_T32TMQ_20240915T1 (554 MB)
+2026-04-29 14:36:38.141 | SUCCESS  | __main__:download_scene:129 -   Done: S2B_MSIL2A_20240915T102559_N0511_R108_T32TMQ_20240915T131207
+2026-04-29 14:36:40.145 | INFO     | __main__:main:179 - [72/96] 2024 Autumn Tile 33TUG
+2026-04-29 14:36:41.656 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20240921T100031_N0511_R122_T33TUG_20240921T1
+2026-04-29 14:36:43.621 | INFO     | __main__:download_scene:119 -   Downloading: S2A_MSIL2A_20240921T100031_N0511_R122_T33TUG_20240921T1 (1163 MB)
+2026-04-29 14:39:02.258 | SUCCESS  | __main__:download_scene:129 -   Done: S2A_MSIL2A_20240921T100031_N0511_R122_T33TUG_20240921T141950
+2026-04-29 14:39:04.261 | INFO     | __main__:main:179 - [73/96] 2025 Winter Tile 31TGK
+2026-04-29 14:39:07.000 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20250101T104441_N0511_R008_T31TGK_20250101T1
+2026-04-29 14:39:07.001 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2A_MSIL2A_20250101T104441_N0511_R008_T31TGK_20250101T163700
+2026-04-29 14:39:09.004 | INFO     | __main__:main:179 - [74/96] 2025 Winter Tile 31TGJ
+2026-04-29 14:39:11.607 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20250101T104441_N0511_R008_T31TGJ_20250101T1
+2026-04-29 14:39:11.608 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2A_MSIL2A_20250101T104441_N0511_R008_T31TGJ_20250101T163700
+2026-04-29 14:39:13.610 | INFO     | __main__:main:179 - [75/96] 2025 Winter Tile 31TGL
+2026-04-29 14:39:15.106 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20250101T104441_N0511_R008_T31TGL_20250101T1
+2026-04-29 14:39:15.107 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2A_MSIL2A_20250101T104441_N0511_R008_T31TGL_20250101T163700
+2026-04-29 14:39:17.109 | INFO     | __main__:main:179 - [76/96] 2025 Winter Tile 32TMP
+2026-04-29 14:39:20.409 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20250108T103421_N0511_R108_T32TMP_20250108T1
+2026-04-29 14:39:20.410 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2A_MSIL2A_20250108T103421_N0511_R108_T32TMP_20250108T144248
+2026-04-29 14:39:22.414 | INFO     | __main__:main:179 - [77/96] 2025 Winter Tile 32TMQ
+2026-04-29 14:39:26.160 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20250103T103339_N0511_R108_T32TMQ_20250103T1
+2026-04-29 14:39:26.161 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2B_MSIL2A_20250103T103339_N0511_R108_T32TMQ_20250103T144158
+2026-04-29 14:39:28.166 | INFO     | __main__:main:179 - [78/96] 2025 Winter Tile 33TUG
+2026-04-29 14:39:30.367 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20250101T095319_N0511_R079_T33TUG_20250101T1
+2026-04-29 14:39:33.395 | INFO     | __main__:download_scene:119 -   Downloading: S2B_MSIL2A_20250101T095319_N0511_R079_T33TUG_20250101T1 (273 MB)
+2026-04-29 14:40:36.054 | SUCCESS  | __main__:download_scene:129 -   Done: S2B_MSIL2A_20250101T095319_N0511_R079_T33TUG_20250101T120948
+2026-04-29 14:40:38.058 | INFO     | __main__:main:179 - [79/96] 2025 Spring Tile 31TGK
+2026-04-29 14:40:41.600 | INFO     | __main__:main:203 -   Found: S2C_MSIL2A_20250319T102801_N0511_R108_T31TGK_20250319T1
+2026-04-29 14:40:43.698 | INFO     | __main__:download_scene:119 -   Downloading: S2C_MSIL2A_20250319T102801_N0511_R108_T31TGK_20250319T1 (1194 MB)
+2026-04-29 14:46:20.893 | SUCCESS  | __main__:download_scene:129 -   Done: S2C_MSIL2A_20250319T102801_N0511_R108_T31TGK_20250319T164713
+2026-04-29 14:46:22.898 | INFO     | __main__:main:179 - [80/96] 2025 Spring Tile 31TGJ
+2026-04-29 14:46:22.898 | INFO     | __main__:main:186 - Refreshing token...
+2026-04-29 14:46:24.245 | INFO     | __main__:get_token:47 - Token obtained successfully
+2026-04-29 14:46:26.640 | INFO     | __main__:main:203 -   Found: S2C_MSIL2A_20250316T101821_N0511_R065_T31TGJ_20250316T1
+2026-04-29 14:46:26.641 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2C_MSIL2A_20250316T101821_N0511_R065_T31TGJ_20250316T161715
+2026-04-29 14:46:28.643 | INFO     | __main__:main:179 - [81/96] 2025 Spring Tile 31TGL
+2026-04-29 14:46:30.099 | INFO     | __main__:main:203 -   Found: S2C_MSIL2A_20250319T102801_N0511_R108_T31TGL_20250319T1
+2026-04-29 14:46:30.100 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2C_MSIL2A_20250319T102801_N0511_R108_T31TGL_20250319T164713
+2026-04-29 14:46:32.101 | INFO     | __main__:main:179 - [82/96] 2025 Spring Tile 32TMP
+2026-04-29 14:46:33.909 | INFO     | __main__:main:203 -   Found: S2C_MSIL2A_20250319T102801_N0511_R108_T32TMP_20250319T1
+2026-04-29 14:46:36.719 | INFO     | __main__:download_scene:119 -   Downloading: S2C_MSIL2A_20250319T102801_N0511_R108_T32TMP_20250319T1 (167 MB)
+2026-04-29 14:47:14.630 | SUCCESS  | __main__:download_scene:129 -   Done: S2C_MSIL2A_20250319T102801_N0511_R108_T32TMP_20250319T164713
+2026-04-29 14:47:16.634 | INFO     | __main__:main:179 - [83/96] 2025 Spring Tile 32TMQ
+2026-04-29 14:47:19.478 | INFO     | __main__:main:203 -   Found: S2C_MSIL2A_20250319T102801_N0511_R108_T32TMQ_20250319T1
+2026-04-29 14:47:19.479 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2C_MSIL2A_20250319T102801_N0511_R108_T32TMQ_20250319T164713
+2026-04-29 14:47:21.481 | INFO     | __main__:main:179 - [84/96] 2025 Spring Tile 33TUG
+2026-04-29 14:47:24.220 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20250319T095041_N0511_R079_T33TUG_20250319T1
+2026-04-29 14:47:24.222 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2A_MSIL2A_20250319T095041_N0511_R079_T33TUG_20250319T154214
+2026-04-29 14:47:26.223 | INFO     | __main__:main:179 - [85/96] 2025 Summer Tile 31TGK
+2026-04-29 14:47:31.872 | INFO     | __main__:main:203 -   Found: S2C_MSIL2A_20250617T102621_N0511_R108_T31TGK_20250617T1
+2026-04-29 14:47:31.873 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2C_MSIL2A_20250617T102621_N0511_R108_T31TGK_20250617T142610
+2026-04-29 14:47:33.875 | INFO     | __main__:main:179 - [86/96] 2025 Summer Tile 31TGJ
+2026-04-29 14:47:36.233 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20250616T102041_N0511_R065_T31TGJ_20250616T1
+2026-04-29 14:47:38.168 | INFO     | __main__:download_scene:119 -   Downloading: S2A_MSIL2A_20250616T102041_N0511_R065_T31TGJ_20250616T1 (157 MB)
+2026-04-29 14:48:11.184 | SUCCESS  | __main__:download_scene:129 -   Done: S2A_MSIL2A_20250616T102041_N0511_R065_T31TGJ_20250616T121917
+2026-04-29 14:48:13.187 | INFO     | __main__:main:179 - [87/96] 2025 Summer Tile 31TGL
+2026-04-29 14:48:16.721 | INFO     | __main__:main:203 -   Found: S2C_MSIL2A_20250617T102621_N0511_R108_T31TGL_20250617T1
+2026-04-29 14:48:16.722 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2C_MSIL2A_20250617T102621_N0511_R108_T31TGL_20250617T142610
+2026-04-29 14:48:18.723 | INFO     | __main__:main:179 - [88/96] 2025 Summer Tile 32TMP
+2026-04-29 14:48:22.755 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20250616T102041_N0511_R065_T32TMP_20250616T1
+2026-04-29 14:48:22.757 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2A_MSIL2A_20250616T102041_N0511_R065_T32TMP_20250616T121917
+2026-04-29 14:48:24.760 | INFO     | __main__:main:179 - [89/96] 2025 Summer Tile 32TMQ
+2026-04-29 14:48:28.807 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20250616T102041_N0511_R065_T32TMQ_20250616T1
+2026-04-29 14:48:33.413 | INFO     | __main__:download_scene:119 -   Downloading: S2A_MSIL2A_20250616T102041_N0511_R065_T32TMQ_20250616T1 (1133 MB)
+2026-04-29 14:53:52.297 | ERROR    | __main__:download_scene:132 -   Failed: ('Connection broken: IncompleteRead(12264074 bytes read, 1175796447 more expected)', IncompleteRead(12264074 bytes read, 1175796447 more expected))
+2026-04-29 14:53:54.304 | INFO     | __main__:main:179 - [90/96] 2025 Summer Tile 33TUG
+2026-04-29 14:53:54.305 | INFO     | __main__:main:186 - Refreshing token...
+2026-04-29 14:54:04.480 | INFO     | __main__:get_token:47 - Token obtained successfully
+2026-04-29 14:54:06.850 | INFO     | __main__:main:203 -   Found: S2C_MSIL2A_20250615T095051_N0511_R079_T33TUG_20250615T1
+2026-04-29 14:54:06.852 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2C_MSIL2A_20250615T095051_N0511_R079_T33TUG_20250615T122401
+2026-04-29 14:54:08.854 | INFO     | __main__:main:179 - [91/96] 2025 Autumn Tile 31TGK
+2026-04-29 14:54:15.030 | INFO     | __main__:main:203 -   Found: S2C_MSIL2A_20250918T104031_N0511_R008_T31TGK_20250918T1
+2026-04-29 14:54:15.032 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2C_MSIL2A_20250918T104031_N0511_R008_T31TGK_20250918T161413
+2026-04-29 14:54:17.040 | INFO     | __main__:main:179 - [92/96] 2025 Autumn Tile 31TGJ
+2026-04-29 14:54:20.969 | INFO     | __main__:main:203 -   Found: S2C_MSIL2A_20250915T103041_N0511_R108_T31TGJ_20250915T1
+2026-04-29 14:54:20.970 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2C_MSIL2A_20250915T103041_N0511_R108_T31TGJ_20250915T174614
+2026-04-29 14:54:22.978 | INFO     | __main__:main:179 - [93/96] 2025 Autumn Tile 31TGL
+2026-04-29 14:54:27.522 | INFO     | __main__:main:203 -   Found: S2C_MSIL2A_20250918T104031_N0511_R008_T31TGL_20250918T1
+2026-04-29 14:54:27.525 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2C_MSIL2A_20250918T104031_N0511_R008_T31TGL_20250918T161413
+2026-04-29 14:54:29.536 | INFO     | __main__:main:179 - [94/96] 2025 Autumn Tile 32TMP
+2026-04-29 14:54:31.223 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20250920T102619_N0511_R108_T32TMP_20250920T1
+2026-04-29 14:54:31.224 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2B_MSIL2A_20250920T102619_N0511_R108_T32TMP_20250920T142941
+2026-04-29 14:54:33.230 | INFO     | __main__:main:179 - [95/96] 2025 Autumn Tile 32TMQ
+2026-04-29 14:54:37.025 | INFO     | __main__:main:203 -   Found: S2B_MSIL2A_20250920T102619_N0511_R108_T32TMQ_20250920T1
+2026-04-29 14:54:37.027 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2B_MSIL2A_20250920T102619_N0511_R108_T32TMQ_20250920T142941
+2026-04-29 14:54:39.038 | INFO     | __main__:main:179 - [96/96] 2025 Autumn Tile 33TUG
+2026-04-29 14:54:42.986 | INFO     | __main__:main:203 -   Found: S2A_MSIL2A_20250915T095041_N0511_R079_T33TUG_20250915T1
+2026-04-29 14:54:42.988 | INFO     | __main__:download_scene:103 -   SKIP (exists): S2A_MSIL2A_20250915T095041_N0511_R079_T33TUG_20250915T114213
+2026-04-29 14:54:44.999 | INFO     | __main__:main:217 - 
+============================================================
+2026-04-29 14:54:45.000 | INFO     | __main__:main:218 - COMPLETE:
+2026-04-29 14:54:45.010 | INFO     | __main__:main:219 -   Downloaded:  95
+2026-04-29 14:54:45.013 | INFO     | __main__:main:220 -   Failed:      1
+2026-04-29 14:54:45.017 | INFO     | __main__:main:221 -   Not found:   0
+2026-04-29 14:54:45.026 | INFO     | __main__:main:222 -   Log saved:   C:\Users\Apple\deep_sea_pulse\outputs\sentinel2\R3\downloaded_scenes.json
+2026-04-29 14:54:45.033 | INFO     | __main__:main:223 - ============================================================
