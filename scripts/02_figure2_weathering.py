@@ -32,7 +32,7 @@ for bar in bars:
     w = bar.get_width()
     ax.text(w + 0.008, bar.get_y() + bar.get_height()/2., f"{w:.3f}", ha="left", va="center", fontweight="bold", fontsize=11)
 
-ax.set_xlabel(chr(77)+chr(101)+chr(97)+chr(110)+chr(32)+chr(124)+chr(83)+chr(72)+chr(65)+chr(80)+chr(32)+chr(118)+chr(97)+chr(108)+chr(117)+chr(101)+chr(124), fontsize=11, fontweight="bold", labelpad=8)
+ax.set_xlabel(chr(77)+chr(101)+chr(97)+chr(110)+chr(32)+chr(124)+chr(83)+chr(72)+chr(65)+chr(80)+chr(32)+chr(118)+chr(97)+chr(108)+chr(117)+chr(101)+chr(124), fontsize=11, fontweight="bold", labelpad=10)
 ax.set_title("c   Feature Contribution to W4 Sinking Probability", fontsize=12, fontweight="bold", loc="left", pad=12)
 ax.set_xlim(0, 0.35)
 ax.spines["top"].set_visible(False)
@@ -40,11 +40,15 @@ ax.spines["right"].set_visible(False)
 ax.grid(True, linestyle=":", alpha=0.4, axis="x")
 
 temp_c_path = OUTPUT_DIR / "temp_panel_c.png"
-fig.savefig(temp_c_path, dpi=300, bbox_inches="tight", facecolor="white", pad_inches=0.1)
+# Increased bottom rect padding to prevent any clipping fragment
+fig.tight_layout(rect=[0, 0.03, 1, 1])
+fig.savefig(temp_c_path, dpi=300, bbox_inches='tight', facecolor="white", pad_inches=0.15)
 plt.close()
 
 panel_c_img = Image.open(temp_c_path)
-crop_box = (int(width * 0.01), int(height * 0.50), int(width * 0.49), int(height * 0.99))
+
+# Slightly adjusted crop box to cut off the bottom artifact completely
+crop_box = (int(width * 0.01), int(height * 0.50), int(width * 0.49), int(height * 0.98))
 target_w = crop_box[2] - crop_box[0]
 target_h = crop_box[3] - crop_box[1]
 
@@ -59,4 +63,4 @@ final_img.save(out_path, quality=95)
 if temp_c_path.exists():
     temp_c_path.unlink()
 
-print(f"[+] DONE: Updated Figure 2 PNG saved directly to: {out_path}")
+print(f"[+] DONE: Perfectly cleaned Figure 2 saved to: {out_path}")
